@@ -1,0 +1,673 @@
+job_title,rating,company_name,size,type_of_ownership,industry,sector,revenue,min_salary,max_salary,avg_salary,city,state,skill_sql,skill_python,skill_excel,skill_power_bi,skill_tableau,skill_r,skill_aws,skill_azure,skill_gcp,skill_spark,skill_snowflake,skill_databricks
+Data Scientist,3.1,Healthfirst,1001-5000,Nonprofit Organization,Insurance Carriers,Insurance,Unknown / Non-Applicable,137000,171000,154000.0,New York,NY,0,0,0,0,0,0,1,1,0,0,0,0
+Data Scientist,4.2,ManTech,5001-10000,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),137000,171000,154000.0,Chantilly,VA,1,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.8,Analysis Group,1001-5000,Private Practice / Firm,Consulting,Business Services,$100 to $500 million (USD),137000,171000,154000.0,Boston,MA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,3.5,INFICON,501-1000,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$100 to $500 million (USD),137000,171000,154000.0,Newton,MA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,2.9,Affinity Solutions,51-200,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,137000,171000,154000.0,New York,NY,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.2,HG Insights,51-200,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,137000,171000,154000.0,Santa Barbara,CA,1,1,0,0,0,0,1,0,0,0,0,0
+Machine Learning Engineer,3.9,Novartis,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),137000,171000,154000.0,Cambridge,MA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,iRobot,1001-5000,Company - Public,Consumer Electronics & Appliances Stores,Retail,$1 to $2 billion (USD),137000,171000,154000.0,Bedford,MA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.4,Intuit - Data,5001-10000,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),137000,171000,154000.0,San Diego,CA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.6,XSELL Technologies,51-200,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,137000,171000,154000.0,Chicago,IL,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.5,Novetta,501-1000,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),137000,171000,154000.0,Herndon,VA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,4.7,1904labs,51-200,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,137000,171000,154000.0,Saint Louis,MO,1,1,0,0,0,0,0,0,0,1,0,0
+Data Scientist,3.7,PNNL,1001-5000,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),137000,171000,154000.0,Richland,WA,0,0,0,0,0,0,0,0,0,0,0,0
+Other,3.1,Old World Industries,201-500,Company - Private,Chemical Manufacturing,Manufacturing,$1 to $2 billion (USD),137000,171000,154000.0,Northbrook,IL,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.4,Mathematica Policy Research,1001-5000,Company - Private,Consulting,Business Services,$100 to $500 million (USD),137000,171000,154000.0,Washington,DC,0,1,0,0,0,0,1,0,1,0,0,1
+Data Scientist,4.4,Guzman & Griffin Technologies (GGTI),1-50,Company - Private,Federal Agencies,Government,Unknown / Non-Applicable,137000,171000,154000.0,Washington,DC,1,1,0,0,1,0,1,0,0,0,0,0
+Data Scientist,4.1,Upside Business Travel,51-200,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,137000,171000,154000.0,Remote,Remote,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,Buckman,1001-5000,Company - Private,Chemical Manufacturing,Manufacturing,$500 million to $1 billion (USD),137000,171000,154000.0,Memphis,TN,1,1,0,1,0,0,0,1,0,0,0,0
+Data Analyst,4.2,"Insight Enterprises, Inc.",5001-10000,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion (USD),137000,171000,154000.0,Plano,TX,0,0,1,0,0,0,0,0,0,0,0,0
+Other,3.5,Tower Health,5001-10000,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,137000,171000,154000.0,West Grove,PA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.2,Triplebyte,51-200,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,137000,171000,154000.0,New York,NY,0,0,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,4.3,PulsePoint,51-200,Company - Private,Internet,Information Technology,$100 to $500 million (USD),137000,171000,154000.0,New York,NY,0,1,0,0,0,0,0,0,0,0,0,0
+Other,3.5,Exponent,1001-5000,Company - Public,Consulting,Business Services,$100 to $500 million (USD),137000,171000,154000.0,Phoenix,AZ,0,0,0,0,0,0,0,0,0,0,0,0
+Other,3.5,Guardian Life,5001-10000,Company - Private,Insurance Carriers,Insurance,$5 to $10 billion (USD),137000,171000,154000.0,Appleton,WI,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.4,Spectrum Communications and Consulting,51-200,Company - Private,Advertising & Marketing,Business Services,$10 to $25 million (USD),137000,171000,154000.0,Chicago,IL,1,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.7,Oversight Systems,51-200,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),137000,171000,154000.0,Atlanta,GA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.2,LSQ,51-200,Company - Private,Investment Banking & Asset Management,Finance,$100 to $500 million (USD),137000,171000,154000.0,Orlando,FL,0,1,1,1,1,0,1,0,0,0,0,0
+Data Scientist,3.8,MIT Lincoln Laboratory,1001-5000,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,137000,171000,154000.0,Lexington,MA,1,1,0,1,0,0,0,0,0,1,0,0
+Data Scientist,4.5,Kingfisher Systems,51-200,Company - Private,Federal Agencies,Government,$25 to $50 million (USD),137000,171000,154000.0,McLean,VA,0,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,2.8,Formation,51-200,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,137000,171000,154000.0,San Francisco,CA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.8,Analysis Group,1001-5000,Private Practice / Firm,Consulting,Business Services,$100 to $500 million (USD),75000,131000,103000.0,Boston,MA,0,1,0,0,0,0,1,0,0,0,0,0
+Machine Learning Engineer,3.9,Novartis,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),75000,131000,103000.0,Cambridge,MA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,5.0,Cohere Health,1-50,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,75000,131000,103000.0,Boston,MA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.8,Acuity Insurance,1001-5000,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),75000,131000,103000.0,Sheboygan,WI,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,3.6,Chef,201-500,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD),75000,131000,103000.0,Unknown,Unknown,0,0,0,0,0,0,1,0,0,0,0,0
+Data Scientist,3.3,Puget Sound Energy,1001-5000,Company - Private,Utilities,"Oil, Gas, Energy & Utilities",$2 to $5 billion (USD),75000,131000,103000.0,Bothell,WA,1,0,1,0,0,0,0,0,0,0,0,0
+Other,2.7,Sandhills Global,1001-5000,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD),75000,131000,103000.0,Lincoln,NE,1,1,1,1,1,0,0,0,0,0,0,0
+Data Scientist,2.7,A Place for Mom,501-1000,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,75000,131000,103000.0,Overland Park,KS,1,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,2.2,Great-Circle Technologies,1-50,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million (USD),75000,131000,103000.0,Chantilly,VA,1,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,3.4,Edmunds.com,501-1000,Company - Private,Internet,Information Technology,$100 to $500 million (USD),75000,131000,103000.0,Santa Monica,CA,1,1,0,0,1,0,0,0,0,0,0,0
+Data Analyst,3.1,"Cambridge Associates, LLC",501-1000,Company - Private,Investment Banking & Asset Management,Finance,$100 to $500 million (USD),75000,131000,103000.0,Boston,MA,1,1,1,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,3.4,Liberty Mutual Insurance,10000+,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),75000,131000,103000.0,Portsmouth,NH,0,1,0,0,0,1,1,1,0,0,0,0
+Data Analyst,2.6,Cenlar,1001-5000,Company - Private,Unknown,Unknown,$100 to $500 million (USD),75000,131000,103000.0,Ewing,NJ,1,0,0,0,0,0,0,0,0,0,0,0
+Other,5.0,Arsenal Biosciences,51-200,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,75000,131000,103000.0,South San Francisco,CA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.2,Eversight,51-200,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),75000,131000,103000.0,Palo Alto,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,4.1,Pfizer,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),75000,131000,103000.0,Cambridge,MA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.8,Klaviyo,201-500,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,75000,131000,103000.0,Boston,MA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.3,Intellectual Ventures,501-1000,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,75000,131000,103000.0,Bellevue,WA,0,1,1,0,0,0,0,0,0,0,0,0
+Data Scientist,3.7,GovTech,1001-5000,Government,Federal Agencies,Government,Unknown / Non-Applicable,75000,131000,103000.0,San Francisco,CA,0,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,4.3,Quick Base,201-500,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,75000,131000,103000.0,Cambridge,MA,1,1,1,1,1,0,0,0,0,0,0,0
+Data Analyst,4.8,Giving Assistant,1-50,Company - Private,Advertising & Marketing,Business Services,$10 to $25 million (USD),75000,131000,103000.0,San Francisco,CA,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.7,Takeda,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),75000,131000,103000.0,Cambridge,MA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.0,Netskope,501-1000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,75000,131000,103000.0,San Francisco,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,4.8,IT Concepts,51-200,Company - Private,IT Services,Information Technology,$10 to $25 million (USD),75000,131000,103000.0,Remote,Remote,1,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,3.5,iSeatz,51-200,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,75000,131000,103000.0,New Orleans,LA,1,0,1,0,0,0,0,0,0,0,0,0
+Other,3.7,Summa Health System,5001-10000,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),75000,131000,103000.0,Akron,OH,0,0,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.5,Benson Hill,201-500,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),75000,131000,103000.0,Saint Louis,MO,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.1,Twitter,1001-5000,Company - Public,Internet,Information Technology,$2 to $5 billion (USD),75000,131000,103000.0,San Francisco,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.2,Postmates - Corporate HQ,1001-5000,Company - Private,Express Delivery Services,Transportation & Logistics,Unknown / Non-Applicable,75000,131000,103000.0,San Francisco,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.5,Envision LLC,201-500,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),75000,131000,103000.0,Saint Louis,MO,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,3.8,Swiss Re,10000+,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),75000,131000,103000.0,Fort Wayne,IN,1,1,1,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,4.5,Systems & Technology Research,201-500,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),75000,131000,103000.0,Woburn,MA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,iRobot,1001-5000,Company - Public,Consumer Electronics & Appliances Stores,Retail,$1 to $2 billion (USD),79000,131000,105000.0,Bedford,MA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.2,HG Insights,51-200,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,79000,131000,105000.0,Santa Barbara,CA,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,3.8,Dermalogica,201-500,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing,$100 to $500 million (USD),79000,131000,105000.0,Carson,CA,1,0,1,1,1,0,0,0,0,0,0,0
+Data Engineer,3.7,Bayview Asset Management,1001-5000,Company - Private,Investment Banking & Asset Management,Finance,$100 to $500 million (USD),79000,131000,105000.0,Coral Gables,FL,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.7,Via Transportation,501-1000,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,79000,131000,105000.0,New York,NY,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,4.0,Grid Dynamics,1001-5000,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD),79000,131000,105000.0,Santa Clara,CA,1,1,0,0,1,0,0,0,0,0,0,0
+Machine Learning Engineer,3.3,Tempus Labs,501-1000,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,79000,131000,105000.0,Chicago,IL,1,1,0,0,0,0,1,0,0,0,0,0
+Machine Learning Engineer,2.5,CareDx,1-50,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,79000,131000,105000.0,Brisbane,CA,0,1,0,0,0,0,0,0,0,1,0,0
+Data Engineer,4.2,IZEA,51-200,Company - Public,Advertising & Marketing,Business Services,$25 to $50 million (USD),79000,131000,105000.0,Winter Park,FL,0,1,0,0,0,0,1,0,0,1,0,0
+Machine Learning Engineer,3.3,Tempus Labs,501-1000,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,79000,131000,105000.0,Redwood City,CA,1,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,4.0,Autodesk,5001-10000,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),79000,131000,105000.0,San Francisco,CA,0,1,0,0,0,0,1,1,1,0,0,0
+Data Analyst,3.7,Caterpillar,10000+,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD),79000,131000,105000.0,Peoria,IL,1,0,1,0,1,0,0,0,0,0,0,0
+Other,4.9,New England Biolabs,201-500,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,79000,131000,105000.0,Ipswich,MA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,3.4,Allied Solutions,1001-5000,Subsidiary or Business Segment,Insurance Agencies & Brokerages,Insurance,$100 to $500 million (USD),79000,131000,105000.0,Carmel,IN,1,1,1,1,1,1,0,0,0,0,0,0
+Data Engineer,3.1,Healthfirst,1001-5000,Nonprofit Organization,Insurance Carriers,Insurance,Unknown / Non-Applicable,79000,131000,105000.0,New York,NY,1,1,1,0,0,0,1,0,0,0,0,0
+Data Scientist,3.5,The Knot Worldwide,1001-5000,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,79000,131000,105000.0,Washington,DC,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,2.9,IFG Companies,201-500,Company - Private,Insurance Carriers,Insurance,Unknown / Non-Applicable,79000,131000,105000.0,New York,NY,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.3,Amyris,201-500,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),79000,131000,105000.0,Emeryville,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.0,AstraZeneca,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),79000,131000,105000.0,Gaithersburg,MD,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.6,Powertek,51-200,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),79000,131000,105000.0,Washington,DC,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,4.7,Object Partners,51-200,Company - Private,Consulting,Business Services,$25 to $50 million (USD),79000,131000,105000.0,Saint Louis,MO,1,0,0,0,0,0,1,1,1,0,0,0
+Data Scientist,4.9,The Mom Project,1-50,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,79000,131000,105000.0,Longmont,CO,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,4.3,Lightspeed Systems,51-200,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),79000,131000,105000.0,Austin,TX,1,1,0,0,0,0,1,0,0,1,0,0
+Other,4.0,Stripe,1001-5000,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,79000,131000,105000.0,San Francisco,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,2.6,Comprehensive Healthcare,501-1000,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,79000,131000,105000.0,Yakima,WA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.5,"Fullpower Technologies, Inc.",51-200,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),79000,131000,105000.0,Santa Cruz,CA,1,1,0,0,0,0,1,0,1,0,0,0
+Machine Learning Engineer,4.8,Klaviyo,201-500,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,79000,131000,105000.0,Boston,MA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.9,Mars,10000+,Company - Private,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),79000,131000,105000.0,Unknown,Unknown,0,1,0,0,0,0,1,0,0,1,0,1
+Data Scientist,4.0,AstraZeneca,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),79000,131000,105000.0,Gaithersburg,MD,1,1,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,4.4,NuWave Solutions,51-200,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),79000,131000,105000.0,Springfield,VA,1,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,4.2,ManTech,5001-10000,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),79000,131000,105000.0,Alexandria,VA,1,1,0,1,1,0,0,0,0,0,0,0
+Data Scientist,3.6,Merrick Bank,201-500,Company - Private,Banks & Credit Unions,Finance,Unknown / Non-Applicable,79000,131000,105000.0,Unknown,UT,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.4,Mathematica Policy Research,1001-5000,Company - Private,Consulting,Business Services,$100 to $500 million (USD),99000,132000,115500.0,Washington,DC,0,1,0,0,0,0,1,0,1,0,0,1
+Data Scientist,4.4,Intuit - Data,5001-10000,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),99000,132000,115500.0,San Diego,CA,0,0,0,0,0,0,0,0,0,0,0,0
+Other,3.5,QOMPLX,51-200,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),99000,132000,115500.0,Reston,VA,1,1,0,0,0,0,0,0,0,1,0,0
+Data Scientist,3.9,Mars,10000+,Company - Private,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),99000,132000,115500.0,New York,NY,0,1,0,0,0,0,0,1,0,1,0,1
+Data Scientist,3.8,GutCheck,51-200,Company - Private,Advertising & Marketing,Business Services,$10 to $25 million (USD),99000,132000,115500.0,Denver,CO,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,Inter-American Development Bank,1001-5000,Other Organization,Banks & Credit Unions,Finance,$10+ billion (USD),99000,132000,115500.0,Washington,DC,0,0,0,0,1,0,0,0,0,0,0,0
+Data Scientist,4.9,Avlino,1-50,Company - Private,Enterprise Software & Network Solutions,Information Technology,Less than $1 million (USD),99000,132000,115500.0,Unknown,NJ,0,1,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,4.4,Stratagem Group,1-50,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,99000,132000,115500.0,Aurora,CO,1,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,4.1,Evidation,51-200,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,99000,132000,115500.0,Santa Barbara,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.0,Autodesk,5001-10000,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),99000,132000,115500.0,San Francisco,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.4,Intuit - Data,5001-10000,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),99000,132000,115500.0,San Diego,CA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.8,Tecolote Research,501-1000,Company - Private,Aerospace & Defense,Aerospace & Defense,$50 to $100 million (USD),99000,132000,115500.0,Hill AFB,UT,1,1,1,1,1,0,0,0,0,0,0,0
+Data Engineer,3.2,Tivity Health,501-1000,Company - Public,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,99000,132000,115500.0,Chandler,AZ,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,2.9,hc1,51-200,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),99000,132000,115500.0,Indianapolis,IN,1,1,0,0,0,0,1,0,0,0,1,0
+Data Scientist,4.1,HP Inc.,10000+,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,99000,132000,115500.0,San Diego,CA,0,1,1,0,0,0,1,1,0,0,0,0
+Data Scientist,3.7,SAIC,10000+,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 million (USD),99000,132000,115500.0,Chantilly,VA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,3.2,AllianceBernstein,1001-5000,Company - Public,Investment Banking & Asset Management,Finance,$2 to $5 billion (USD),99000,132000,115500.0,Nashville,TN,0,0,1,0,0,0,0,0,0,0,0,0
+Data Analyst,4.9,Big Huge Games,51-200,Subsidiary or Business Segment,Video Games,Media,Unknown / Non-Applicable,99000,132000,115500.0,Timonium,MD,1,0,1,0,1,0,0,0,0,0,0,0
+Data Scientist,3.5,Maxar Technologies,5001-10000,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),99000,132000,115500.0,Herndon,VA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,5.0,Phantom AI,1-50,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,99000,132000,115500.0,Burlingame,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.0,Noblis,1001-5000,Nonprofit Organization,Consulting,Business Services,$100 to $500 million (USD),99000,132000,115500.0,Reston,VA,1,1,0,0,1,0,1,0,0,1,0,0
+Data Scientist,3.6,Spring Health,1-50,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,99000,132000,115500.0,New York,NY,1,1,0,0,0,0,0,0,0,0,0,0
+Other,4.0,ClearEdge,51-200,Company - Private,Computer Hardware & Software,Information Technology,$5 to $10 million (USD),99000,132000,115500.0,Annapolis Junction,MD,0,1,1,0,0,0,0,0,0,0,0,0
+Data Analyst,3.2,AllianceBernstein,1001-5000,Company - Public,Investment Banking & Asset Management,Finance,$2 to $5 billion (USD),99000,132000,115500.0,Nashville,TN,1,1,0,0,0,0,0,1,0,0,0,0
+Other,5.0,Arsenal Biosciences,51-200,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,99000,132000,115500.0,South San Francisco,CA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,4.8,GetWellNetwork,201-500,Company - Private,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),99000,132000,115500.0,Bethesda,MD,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.5,TACG Solutions,51-200,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,99000,132000,115500.0,Dayton,OH,1,1,1,0,1,0,0,0,0,0,0,0
+Data Engineer,4.7,Scoop,51-200,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,99000,132000,115500.0,San Francisco,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.5,Novetta,501-1000,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),99000,132000,115500.0,Herndon,VA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Engineer,4.2,IZEA,51-200,Company - Public,Advertising & Marketing,Business Services,$25 to $50 million (USD),99000,132000,115500.0,Winter Park,FL,0,1,0,0,0,0,1,0,0,1,0,0
+Other,3.4,Montway Inc,51-200,Company - Private,Shipping,Transportation & Logistics,Unknown / Non-Applicable,99000,132000,115500.0,Schaumburg,IL,1,1,1,0,1,0,0,0,0,0,0,0
+Data Scientist,3.8,Juniper Networks,5001-10000,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),99000,132000,115500.0,Cupertino,CA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,4.7,1904labs,51-200,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,90000,109000,99500.0,Saint Louis,MO,1,1,0,0,0,0,0,0,0,1,0,0
+Data Scientist,3.6,XSELL Technologies,51-200,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,90000,109000,99500.0,Chicago,IL,1,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,4.2,IZEA,51-200,Company - Public,Advertising & Marketing,Business Services,$25 to $50 million (USD),90000,109000,99500.0,Winter Park,FL,0,1,0,0,0,0,1,0,0,1,0,0
+Data Scientist,3.8,Juniper Networks,5001-10000,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),90000,109000,99500.0,Cupertino,CA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,5.0,Notion Labs,1-50,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,90000,109000,99500.0,San Francisco,CA,1,0,0,0,0,0,0,0,0,0,1,0
+Data Engineer,4.9,Lendio,201-500,Company - Private,Lending,Finance,$50 to $100 million (USD),90000,109000,99500.0,Lehi,UT,1,1,0,0,0,0,1,0,0,0,0,0
+Data Engineer,4.4,Direct Agents,51-200,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million (USD),90000,109000,99500.0,Culver City,CA,1,1,0,1,0,0,0,0,0,0,0,0
+Data Scientist,3.3,NAVEX Global,1001-5000,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),90000,109000,99500.0,Lake Oswego,OR,1,1,0,0,1,0,0,0,0,0,0,0
+Machine Learning Engineer,3.2,Triplebyte,51-200,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,90000,109000,99500.0,Remote,Remote,0,0,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,3.2,Triplebyte,51-200,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,90000,109000,99500.0,Remote,Remote,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,4.9,Lendio,201-500,Company - Private,Lending,Finance,$50 to $100 million (USD),90000,109000,99500.0,Lehi,UT,1,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,4.2,Upstart,201-500,Company - Private,Lending,Finance,Unknown / Non-Applicable,90000,109000,99500.0,San Mateo,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,4.5,Envision LLC,201-500,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),90000,109000,99500.0,San Francisco,CA,0,1,0,0,1,0,0,0,0,1,0,0
+Data Engineer,4.8,AppLovin,201-500,Company - Private,Video Games,Media,Unknown / Non-Applicable,90000,109000,99500.0,Palo Alto,CA,0,0,0,0,0,0,0,0,0,0,0,0
+Other,3.8,ISO New England,501-1000,Nonprofit Organization,Utilities,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable,90000,109000,99500.0,Holyoke,MA,1,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,3.7,Relativity,1001-5000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,90000,109000,99500.0,Chicago,IL,1,0,0,1,1,0,0,0,0,0,1,0
+Data Scientist,3.3,Tempo Automation,51-200,Company - Private,Electrical & Electronic Manufacturing,Manufacturing,$5 to $10 million (USD),90000,109000,99500.0,San Francisco,CA,1,1,0,0,1,0,1,0,0,0,0,0
+Data Scientist,3.3,MITRE,5001-10000,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),90000,109000,99500.0,McLean,VA,0,1,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,5.0,"Expedition Technology, Inc.",1-50,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million (USD),90000,109000,99500.0,Herndon,VA,0,1,0,0,0,0,0,0,0,0,0,0
+Other,3.8,Evidera,501-1000,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),90000,109000,99500.0,Bethesda,MD,0,0,1,0,0,0,0,0,0,0,0,0
+Data Scientist,3.4,Plymouth Rock Assurance,1001-5000,Company - Private,Insurance Carriers,Insurance,$10 to $25 million (USD),90000,109000,99500.0,Woodbridge,NJ,1,0,0,0,0,0,0,0,0,0,0,0
+Other,2.4,Crown Bioscience,501-1000,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),90000,109000,99500.0,San Diego,CA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,2.9,GNS Healthcare,51-200,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),90000,109000,99500.0,Cambridge,MA,1,0,0,0,0,0,0,0,0,0,0,0
+Other,4.4,OneMagnify,201-500,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,90000,109000,99500.0,Dearborn,MI,1,0,0,0,1,0,0,0,0,0,0,0
+Data Scientist,2.9,SPECTRUM,10000+,Subsidiary or Business Segment,"Cable, Internet & Telephone Providers",Telecommunications,$10+ billion (USD),90000,109000,99500.0,Maryland Heights,MO,1,1,1,0,0,0,0,0,0,0,0,0
+Other,2.7,Advanced BioScience Laboratories,201-500,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),90000,109000,99500.0,Rockville,MD,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,4.2,Procore Technologies,1001-5000,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,90000,109000,99500.0,Carpinteria,CA,1,1,1,0,0,0,1,0,1,0,1,0
+Other,3.5,Ritedose,201-500,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),90000,109000,99500.0,Columbia,SC,0,0,0,0,0,0,0,0,0,0,0,0
+Other,-1.0,Covid-19 Search Partners,Unknown,Unknown,Unknown,Unknown,-1,90000,109000,99500.0,Hauppauge,NY,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.2,bioMérieux,10000+,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),90000,109000,99500.0,Saint Louis,MO,0,1,1,0,0,0,0,0,0,0,0,0
+Data Scientist,4.5,Novetta,501-1000,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),101000,165000,133000.0,Herndon,VA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,4.4,Guzman & Griffin Technologies (GGTI),1-50,Company - Private,Federal Agencies,Government,Unknown / Non-Applicable,101000,165000,133000.0,Washington,DC,1,1,0,0,1,0,1,0,0,0,0,0
+Machine Learning Engineer,-1.0,Radical Convergence,Unknown,Unknown,Unknown,Unknown,-1,101000,165000,133000.0,Reston,VA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,Leidos,10000+,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),101000,165000,133000.0,Fort Meade,MD,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.5,Demandbase,201-500,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),101000,165000,133000.0,San Francisco,CA,1,1,0,0,0,0,1,0,1,0,0,0
+Data Analyst,4.1,Shelter Insurance,1001-5000,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),101000,165000,133000.0,Columbia,MO,1,1,1,0,1,0,1,0,0,0,0,0
+Data Scientist,3.5,Maxar Technologies,5001-10000,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),101000,165000,133000.0,Chantilly,VA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,2.7,USAC,501-1000,Nonprofit Organization,Telecommunications Services,Telecommunications,$25 to $50 million (USD),101000,165000,133000.0,Washington,DC,1,1,1,0,0,0,0,0,0,0,0,0
+Other,3.4,General Dynamics Information Technology,10000+,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD),101000,165000,133000.0,Vicksburg,MS,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.4,Offerpad,201-500,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,101000,165000,133000.0,Chandler,AZ,1,1,0,1,0,0,0,1,0,0,0,1
+Data Analyst,4.0,Autodesk,5001-10000,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),101000,165000,133000.0,San Francisco,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,4.2,Autodesk,5001-10000,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),101000,165000,133000.0,San Francisco,CA,1,1,0,1,1,0,0,0,0,0,0,0
+Data Engineer,3.5,Magna International Inc.,10000+,Company - Public,Unknown,Unknown,$10+ billion (USD),101000,165000,133000.0,Birmingham,AL,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,2.3,United BioSource,1001-5000,Other Organization,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),101000,165000,133000.0,Blue Bell,PA,1,0,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.4,Kelly,5001-10000,Company - Public,Staffing & Outsourcing,Business Services,$5 to $10 billion (USD),101000,165000,133000.0,Chicago,IL,0,0,1,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,3.3,Tempus Labs,501-1000,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,101000,165000,133000.0,Redwood City,CA,1,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,4.7,C3.ai,201-500,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),101000,165000,133000.0,Redwood City,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.9,Quartet Health,201-500,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,101000,165000,133000.0,New York,NY,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,3.3,Midland Credit Management,1001-5000,Subsidiary or Business Segment,Banks & Credit Unions,Finance,$1 to $2 billion (USD),101000,165000,133000.0,San Diego,CA,1,1,1,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,3.3,Tempus Labs,501-1000,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,101000,165000,133000.0,Chicago,IL,1,1,0,0,0,0,1,0,0,0,0,0
+Data Engineer,4.4,Resurgent Capital Services,201-500,Company - Private,Venture Capital & Private Equity,Finance,$50 to $100 million (USD),101000,165000,133000.0,Cincinnati,OH,1,1,0,0,0,0,1,1,0,0,0,0
+Data Scientist,3.7,PNNL,1001-5000,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),56000,97000,76500.0,Richland,WA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,Buckman,1001-5000,Company - Private,Chemical Manufacturing,Manufacturing,$500 million to $1 billion (USD),56000,97000,76500.0,Memphis,TN,1,1,0,1,0,0,0,1,0,0,0,0
+Machine Learning Engineer,3.6,Buckman,501-1000,Nonprofit Organization,Federal Agencies,Government,$50 to $100 million (USD),56000,97000,76500.0,Memphis,TN,0,1,0,0,0,0,0,0,0,0,0,0
+Other,3.8,Evidera,501-1000,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),56000,97000,76500.0,Bethesda,MD,0,0,1,0,0,0,0,0,0,0,0,0
+Data Analyst,4.7,webfx.com,201-500,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million (USD),56000,97000,76500.0,Harrisburg,PA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,Argo Group US,1001-5000,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion (USD),56000,97000,76500.0,New York,NY,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.3,BWX Technologies,5001-10000,Company - Public,Aerospace & Defense,Aerospace & Defense,$500 million to $1 billion (USD),56000,97000,76500.0,Oak Ridge,TN,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,3.9,Life360,51-200,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,56000,97000,76500.0,San Francisco,CA,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.7,MassMutual,5001-10000,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),56000,97000,76500.0,Boston,MA,1,1,0,0,0,0,0,0,0,0,0,0
+Other,3.9,Natera,501-1000,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),56000,97000,76500.0,San Carlos,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Other,4.0,Genentech,10000+,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),56000,97000,76500.0,South San Francisco,CA,0,1,0,0,0,0,0,0,1,0,0,0
+Other,4.2,Ntrepid,201-500,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),56000,97000,76500.0,Herndon,VA,1,1,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,3.6,Constant Contact,Unknown,Subsidiary or Business Segment,Advertising & Marketing,Business Services,Unknown / Non-Applicable,56000,97000,76500.0,Waltham,MA,0,1,0,0,0,0,1,0,1,0,0,0
+Machine Learning Engineer,4.7,Sage Intacct,501-1000,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,56000,97000,76500.0,San Francisco,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,4.1,Shape Security,51-200,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,56000,97000,76500.0,Santa Clara,CA,0,1,0,0,0,0,1,0,1,0,0,0
+Data Scientist,4.0,AstraZeneca,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),56000,97000,76500.0,Gaithersburg,MD,0,1,1,0,0,0,0,0,0,0,0,0
+Data Scientist,5.0,SkillSoniq,Unknown,Company - Public,Unknown,Unknown,Unknown / Non-Applicable,56000,97000,76500.0,San Francisco,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.0,AstraZeneca,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),56000,97000,76500.0,New York,NY,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.3,Joby Aviation,51-200,Company - Private,Unknown,Unknown,Unknown / Non-Applicable,56000,97000,76500.0,San Carlos,CA,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,3.8,Cook Children's Health Care System,5001-10000,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),56000,97000,76500.0,Fort Worth,TX,0,0,0,0,0,0,0,0,0,0,0,0
+Other,3.8,Rubius Therapeutics,201-500,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),56000,97000,76500.0,Smithfield,RI,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,4.6,GreatAmerica Financial Services,501-1000,Company - Private,Lending,Finance,$100 to $500 million (USD),56000,97000,76500.0,Cedar Rapids,IA,1,0,1,0,1,0,0,0,0,0,0,0
+Data Scientist,4.1,Upside Business Travel,51-200,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,79000,106000,92500.0,Remote,Remote,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.4,Spectrum Communications and Consulting,51-200,Company - Private,Advertising & Marketing,Business Services,$10 to $25 million (USD),79000,106000,92500.0,Chicago,IL,1,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.1,Coverent,51-200,Company - Private,Consulting,Business Services,$10 to $25 million (USD),79000,106000,92500.0,McLean,VA,0,1,1,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,3.7,Mteq,501-1000,Company - Public,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),79000,106000,92500.0,Fort Belvoir,VA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,4.4,Rocket Lawyer,51-200,Company - Private,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),79000,106000,92500.0,San Francisco,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.9,Novartis,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),79000,106000,92500.0,Cambridge,MA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,3.6,Alion Science & Technology,1001-5000,Company - Private,Research & Development,Business Services,$1 to $2 billion (USD),79000,106000,92500.0,Linthicum Heights,MD,0,1,1,0,0,0,1,0,0,0,0,0
+Other,4.5,Novetta,501-1000,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),79000,106000,92500.0,Herndon,VA,0,0,0,0,0,0,0,0,0,0,0,0
+Other,3.7,Protolabs,1001-5000,Company - Public,Miscellaneous Manufacturing,Manufacturing,$100 to $500 million (USD),79000,106000,92500.0,Maple Plain,MN,1,0,0,1,0,0,0,0,0,0,0,0
+Data Analyst,2.9,Quest Integrity,201-500,Company - Public,Oil & Gas Services,"Oil, Gas, Energy & Utilities",$50 to $100 million (USD),79000,106000,92500.0,Tulsa,OK,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,5.0,Phoenix Operations Group,1-50,Company - Private,IT Services,Information Technology,$1 to $5 million (USD),79000,106000,92500.0,Annapolis Junction,MD,0,1,0,0,0,0,0,0,0,1,0,0
+Data Scientist,3.4,Dice.com,201-500,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$100 to $500 million (USD),79000,106000,92500.0,Newton,MA,1,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,Maxar Technologies,5001-10000,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),79000,106000,92500.0,Herndon,VA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,5.0,Phoenix Operations Group,1-50,Company - Private,IT Services,Information Technology,$1 to $5 million (USD),79000,106000,92500.0,Baltimore,MD,0,1,0,0,0,0,0,0,0,1,0,0
+Other,4.8,Klaviyo,201-500,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,79000,106000,92500.0,Boston,MA,0,1,0,0,0,0,0,0,0,0,0,0
+Other,3.9,Southwest Research Institute,1001-5000,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),79000,106000,92500.0,Oklahoma City,OK,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.0,AstraZeneca,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),79000,106000,92500.0,Gaithersburg,MD,1,1,0,0,0,0,1,1,0,0,0,1
+Data Analyst,4.3,The Buffalo Group,501-1000,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),79000,106000,92500.0,Fort Belvoir,VA,0,1,0,0,0,0,0,0,0,0,0,0
+Other,3.5,Central California Alliance for Health,501-1000,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),79000,106000,92500.0,Scotts Valley,CA,1,0,0,0,1,0,0,0,0,0,0,0
+Other,3.7,MassMutual,5001-10000,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),79000,106000,92500.0,Boston,MA,1,0,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,3.3,Tempus Labs,501-1000,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,79000,106000,92500.0,Redwood City,CA,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,3.1,Security Finance Corporation of Spartanburg,1001-5000,Company - Private,Lending,Finance,Unknown / Non-Applicable,79000,106000,92500.0,Spartanburg,SC,1,0,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,4.3,PulsePoint,51-200,Company - Private,Internet,Information Technology,$100 to $500 million (USD),71000,123000,97000.0,New York,NY,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.2,LSQ,51-200,Company - Private,Investment Banking & Asset Management,Finance,$100 to $500 million (USD),71000,123000,97000.0,Orlando,FL,0,1,1,1,1,0,1,0,0,0,0,0
+Data Engineer,4.4,Resurgent Capital Services,201-500,Company - Private,Venture Capital & Private Equity,Finance,$50 to $100 million (USD),71000,123000,97000.0,Cincinnati,OH,1,1,0,0,0,0,1,1,0,0,0,0
+Data Scientist,3.6,Opendoor,501-1000,Company - Private,Real Estate,Real Estate,$2 to $5 billion (USD),71000,123000,97000.0,San Francisco,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.5,Global Data Management Inc,51-200,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),71000,123000,97000.0,Hartford,CT,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.0,Photon Infotech,1001-5000,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),71000,123000,97000.0,Chicago,IL,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,5.0,REE,51-200,Company - Private,Transportation Equipment Manufacturing,Manufacturing,Unknown / Non-Applicable,71000,123000,97000.0,Unknown,Unknown,0,1,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,3.6,Riverside Research Institute,501-1000,Nonprofit Organization,Federal Agencies,Government,$50 to $100 million (USD),71000,123000,97000.0,Beavercreek,OH,0,1,0,0,0,0,0,0,0,0,0,0
+Other,3.6,T. Rowe Price,5001-10000,Company - Public,Investment Banking & Asset Management,Finance,$2 to $5 billion (USD),71000,123000,97000.0,Baltimore,MD,0,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,-1.0,"Encode, Inc.",1-50,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),71000,123000,97000.0,Norfolk,VA,0,0,1,0,0,0,0,0,0,0,0,0
+Other,3.8,Evidera,501-1000,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),71000,123000,97000.0,Bethesda,MD,0,0,1,0,0,0,0,0,0,0,0,0
+Data Scientist,3.3,BWX Technologies,5001-10000,Company - Public,Aerospace & Defense,Aerospace & Defense,$500 million to $1 billion (USD),71000,123000,97000.0,Oak Ridge,TN,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,3.8,Brighthouse Financial,1001-5000,Company - Public,Insurance Carriers,Insurance,Unknown / Non-Applicable,71000,123000,97000.0,Charlotte,NC,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,Argo Group US,1001-5000,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion (USD),71000,123000,97000.0,New York,NY,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.3,II-VI Incorporated,10000+,Company - Public,Telecommunications Manufacturing,Telecommunications,$1 to $2 billion (USD),71000,123000,97000.0,Champaign,IL,1,0,1,0,0,0,0,0,0,0,0,0
+Data Scientist,4.6,Surya Systems,1-50,Company - Private,Computer Hardware & Software,Information Technology,Less than $1 million (USD),71000,123000,97000.0,San Francisco,CA,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.8,PayPal,10000+,Company - Public,Internet,Information Technology,$10+ billion (USD),71000,123000,97000.0,Unknown,TX,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,3.9,Life360,51-200,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,71000,123000,97000.0,San Francisco,CA,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.9,Predictive Research Inc,1-50,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,71000,123000,97000.0,Plano,TX,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.7,Oversight Systems,51-200,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),90000,124000,107000.0,Atlanta,GA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.8,Acuity Insurance,1001-5000,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),90000,124000,107000.0,Sheboygan,WI,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,3.1,1010data,201-500,Company - Private,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),90000,124000,107000.0,New York,NY,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,3.6,Gigya,201-500,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),90000,124000,107000.0,Palo Alto,CA,0,0,0,0,0,0,0,0,0,0,0,0
+Other,5.0,Genesis Research,1-50,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,90000,124000,107000.0,Hoboken,NJ,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.7,Sanofi,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),90000,124000,107000.0,Cambridge,MA,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.7,XPO Logistics,10000+,Company - Public,Transportation Management,Transportation & Logistics,$10+ billion (USD),90000,124000,107000.0,Lebanon,IN,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.9,Trace Data,51-200,Company - Private,Insurance Carriers,Insurance,$10 to $25 million (USD),90000,124000,107000.0,Oakland,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.3,Descript,1-50,Company - Private,Unknown,Unknown,Less than $1 million (USD),90000,124000,107000.0,San Francisco,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Other,4.2,Rincon Research Corporation,201-500,Company - Private,Aerospace & Defense,Aerospace & Defense,$50 to $100 million (USD),90000,124000,107000.0,Melbourne,FL,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.7,MassMutual,5001-10000,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),90000,124000,107000.0,Boston,MA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.0,Better Hire,1-50,Company - Private,Unknown,Unknown,Unknown / Non-Applicable,90000,124000,107000.0,Birmingham,AL,1,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.3,Parker Hannifin,10000+,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD),90000,124000,107000.0,Cleveland,OH,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.1,Gallup,1001-5000,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,90000,124000,107000.0,New York,NY,0,1,1,0,0,0,0,0,0,0,0,0
+Data Scientist,3.3,Insider Inc,201-500,Company - Private,News Outlet,Media,$50 to $100 million (USD),90000,124000,107000.0,New York,NY,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.9,Rapid Value Solutions,201-500,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,90000,124000,107000.0,San Francisco,CA,1,1,0,0,0,0,1,0,0,0,0,0
+Other,3.1,Battelle,10000+,Nonprofit Organization,Research & Development,Business Services,$5 to $10 billion (USD),90000,124000,107000.0,Norwell,MA,1,0,0,0,0,0,0,0,0,0,0,0
+Other,4.2,Ntrepid,201-500,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),90000,124000,107000.0,Herndon,VA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,5.0,"The Drive Media, Inc.",Unknown,Unknown,Unknown,Unknown,Unknown / Non-Applicable,90000,124000,107000.0,New York,NY,1,1,1,0,0,0,0,0,0,0,0,0
+Data Engineer,2.9,Affinity Solutions,51-200,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,90000,124000,107000.0,San Jose,CA,1,1,0,0,1,0,0,0,0,0,0,0
+Machine Learning Engineer,4.7,Sage Intacct,501-1000,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,90000,124000,107000.0,San Francisco,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,3.6,Constant Contact,Unknown,Subsidiary or Business Segment,Advertising & Marketing,Business Services,Unknown / Non-Applicable,90000,124000,107000.0,Waltham,MA,0,1,0,0,0,0,1,0,1,0,0,0
+Data Scientist,3.8,MIT Lincoln Laboratory,1001-5000,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,91000,150000,120500.0,Lexington,MA,1,1,0,1,0,0,0,0,0,1,0,0
+Data Scientist,3.3,Puget Sound Energy,1001-5000,Company - Private,Utilities,"Oil, Gas, Energy & Utilities",$2 to $5 billion (USD),91000,150000,120500.0,Bothell,WA,1,0,1,0,0,0,0,0,0,0,0,0
+Data Scientist,3.7,Pacific Northwest National Laboratory,1001-5000,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),91000,150000,120500.0,Richland,WA,0,0,0,0,0,0,0,0,0,0,0,0
+Other,3.8,Analysis Group,1001-5000,Private Practice / Firm,Consulting,Business Services,$100 to $500 million (USD),91000,150000,120500.0,Boston,MA,1,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,3.2,US Pharmacopeia,1001-5000,Nonprofit Organization,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),91000,150000,120500.0,Rockville,MD,1,1,1,0,1,0,0,0,0,0,0,0
+Data Scientist,4.6,Itlize Global,201-500,Company - Private,IT Services,Information Technology,$10 to $25 million (USD),91000,150000,120500.0,Piscataway,NJ,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,3.5,eBay,10000+,Company - Public,Internet,Information Technology,$10+ billion (USD),91000,150000,120500.0,San Jose,CA,1,1,0,0,1,0,0,0,0,0,0,0
+Data Engineer,5.0,Paige,1-50,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,91000,150000,120500.0,New York,NY,1,1,0,0,0,0,1,0,0,0,0,0
+Data Engineer,4.1,Shape Security,51-200,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,91000,150000,120500.0,Santa Clara,CA,0,1,0,0,0,0,1,0,1,0,0,0
+Other,4.1,ABIOMED,1001-5000,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),91000,150000,120500.0,Danvers,MA,1,1,1,1,1,0,1,1,0,0,0,0
+Data Scientist,3.5,Comcast,10000+,Company - Public,Unknown,Unknown,$10+ billion (USD),91000,150000,120500.0,New York,NY,1,1,0,0,1,0,1,0,0,0,0,0
+Data Scientist,3.2,"Metronome, LLC",51-200,Company - Private,IT Services,Information Technology,$10 to $25 million (USD),91000,150000,120500.0,Vienna,VA,1,1,0,0,0,0,0,0,0,1,0,0
+Data Scientist,5.0,SkillSoniq,Unknown,Company - Public,Unknown,Unknown,Unknown / Non-Applicable,91000,150000,120500.0,San Francisco,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.7,Lawrence Livermore National Lab,1001-5000,Government,Federal Agencies,Government,$1 to $2 billion (USD),91000,150000,120500.0,Livermore,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,3.8,FHLBank Pittsburgh,201-500,Company - Private,Banks & Credit Unions,Finance,$1 to $2 billion (USD),91000,150000,120500.0,Pittsburgh,PA,0,0,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.6,Jacobs,10000+,Company - Public,Architectural & Engineering Services,Business Services,$10+ billion (USD),91000,150000,120500.0,Herndon,VA,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,4.8,Klaviyo,201-500,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,91000,150000,120500.0,Boston,MA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.3,Underwriters Laboratories,10000+,Company - Private,Consulting,Business Services,$2 to $5 billion (USD),91000,150000,120500.0,Northbrook,IL,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.7,Altus Group,1001-5000,Company - Public,Real Estate,Real Estate,$100 to $500 million (USD),91000,150000,120500.0,Irvine,CA,1,1,0,0,1,0,1,1,1,0,0,0
+Data Scientist,5.0,Jobot,51-200,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),91000,150000,120500.0,Irvine,CA,1,1,0,1,1,0,0,0,0,0,0,0
+Data Scientist,-1.0,Trovetechs Inc,Unknown,Company - Private,Unknown,Unknown,Unknown / Non-Applicable,91000,150000,120500.0,San Francisco,CA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.4,Edmunds.com,501-1000,Company - Private,Internet,Information Technology,$100 to $500 million (USD),141000,225000,183000.0,Santa Monica,CA,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,5.0,Cohere Health,1-50,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,141000,225000,183000.0,Boston,MA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,-1.0,Trovetechs Inc,Unknown,Company - Private,Unknown,Unknown,Unknown / Non-Applicable,141000,225000,183000.0,San Francisco,CA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.0,AstraZeneca,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),141000,225000,183000.0,New York,NY,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.2,Oshkosh Corporation,10000+,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion (USD),141000,225000,183000.0,Oshkosh,WI,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.3,Joby Aviation,51-200,Company - Private,Unknown,Unknown,Unknown / Non-Applicable,141000,225000,183000.0,San Carlos,CA,1,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,3.4,Mackin,51-200,Company - Private,Architectural & Engineering Services,Business Services,$10 to $25 million (USD),141000,225000,183000.0,Menlo Park,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,-1.0,PETADATA,51-200,Company - Private,Unknown,Unknown,Unknown / Non-Applicable,141000,225000,183000.0,San Francisco,CA,1,1,0,1,1,0,1,1,1,0,0,0
+Data Scientist,4.4,VBeyond Corporation,201-500,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),141000,225000,183000.0,Dallas,TX,0,1,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,3.5,Leidos,10000+,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),141000,225000,183000.0,Arlington,VA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.7,Take-Two,1001-5000,Company - Public,Video Games,Media,$1 to $2 billion (USD),141000,225000,183000.0,San Francisco,CA,1,1,0,0,1,0,1,0,0,1,1,1
+Data Scientist,3.7,Colony Brands,501-1000,Company - Private,Food & Beverage Stores,Retail,$100 to $500 million (USD),141000,225000,183000.0,Monroe,WI,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.1,Capio Group,10000+,Hospital,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,141000,225000,183000.0,Sacramento,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.4,SleePare,1-50,Company - Private,Other Retail Stores,Retail,Unknown / Non-Applicable,141000,225000,183000.0,New York,NY,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,4.5,ShorePoint,1-50,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,141000,225000,183000.0,Reston,VA,1,0,0,1,1,0,0,0,0,0,0,0
+Data Scientist,3.5,Dolphin,1001-5000,Company - Private,"Hotels, Motels, & Resorts",Travel & Tourism,Unknown / Non-Applicable,141000,225000,183000.0,New York,NY,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.6,TE Connectivity,10000+,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$10+ billion (USD),141000,225000,183000.0,Hampton,VA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.2,State of Virginia,10000+,Government,State & Regional Agencies,Government,$10+ billion (USD),141000,225000,183000.0,Richmond,VA,1,1,0,0,0,0,0,1,0,0,0,1
+Data Scientist,3.7,TA Digital,501-1000,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),141000,225000,183000.0,New York,NY,1,1,0,0,0,0,1,1,0,0,0,0
+Data Scientist,4.0,Market America Inc,501-1000,Company - Private,Other Retail Stores,Retail,$100 to $500 million (USD),141000,225000,183000.0,Monterey,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.2,Triplebyte,51-200,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,145000,225000,185000.0,Chicago,IL,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.5,Kingfisher Systems,51-200,Company - Private,Federal Agencies,Government,$25 to $50 million (USD),145000,225000,185000.0,McLean,VA,0,1,0,0,1,0,0,0,0,0,0,0
+Other,3.4,TrueAccord,51-200,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,145000,225000,185000.0,Remote,Remote,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.9,ALTA IT Services,201-500,Company - Private,IT Services,Information Technology,$10 to $25 million (USD),145000,225000,185000.0,Woodlawn,MD,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.2,Kollasoft Inc.,1-50,Company - Private,IT Services,Information Technology,$1 to $5 million (USD),145000,225000,185000.0,Unknown,Unknown,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,5.0,Kollasoft Inc.,Unknown,Company - Public,Unknown,Unknown,Unknown / Non-Applicable,145000,225000,185000.0,New York,NY,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.4,ASRC Federal Holding Company,5001-10000,Company - Private,Aerospace & Defense,Aerospace & Defense,$500 million to $1 billion (USD),145000,225000,185000.0,Reston,VA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.4,Adwait Algorithm,51-200,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,145000,225000,185000.0,New York,NY,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,3.8,Cook Children's Health Care System,5001-10000,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),145000,225000,185000.0,Fort Worth,TX,0,0,0,0,0,0,0,0,0,0,0,0
+Other,3.8,Rubius Therapeutics,201-500,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),145000,225000,185000.0,Smithfield,RI,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,Cambridge FX,201-500,Company - Public,Financial Transaction Processing,Finance,$100 to $500 million (USD),145000,225000,185000.0,Atlanta,GA,0,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.8,Metromile,201-500,Company - Private,Insurance Carriers,Insurance,Unknown / Non-Applicable,145000,225000,185000.0,San Francisco,CA,1,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,3.9,Criteo,1001-5000,Company - Public,Internet,Information Technology,$2 to $5 billion (USD),145000,225000,185000.0,Ann Arbor,MI,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.4,Advance Sourcing Concepts,51-200,Company - Private,Unknown,Unknown,$1 to $5 million (USD),145000,225000,185000.0,Pittsburgh,PA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.8,Enterprise Solutions Inc,51-200,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),145000,225000,185000.0,New York,NY,0,1,1,0,1,0,0,0,0,0,0,0
+Data Analyst,4.6,GreatAmerica Financial Services,501-1000,Company - Private,Lending,Finance,$100 to $500 million (USD),145000,225000,185000.0,Cedar Rapids,IA,1,0,1,0,1,0,0,0,0,0,0,0
+Data Scientist,-1.0,Microagility,1-50,Company - Private,Consulting,Business Services,$1 to $5 million (USD),145000,225000,185000.0,New York,NY,1,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.6,"Conch Technologies, Inc",51-200,Company - Private,Consulting,Business Services,$5 to $10 million (USD),145000,225000,185000.0,Concord,CA,0,0,0,0,0,0,0,0,0,0,0,0
+Other,3.9,GSK,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),145000,225000,185000.0,Richmond,VA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,-1.0,"Rainmaker Resources, LLC",1-50,Company - Private,Unknown,Unknown,Unknown / Non-Applicable,145000,225000,185000.0,Cincinnati,OH,0,0,1,0,0,0,0,0,0,0,0,0
+Data Scientist,3.7,GovTech,1001-5000,Government,Federal Agencies,Government,Unknown / Non-Applicable,79000,147000,113000.0,San Francisco,CA,0,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.3,Intellectual Ventures,501-1000,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,79000,147000,113000.0,Bellevue,WA,0,1,1,0,0,0,0,0,0,0,0,0
+Data Engineer,4.4,Rocket Lawyer,51-200,Company - Private,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),79000,147000,113000.0,San Francisco,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.7,22nd Century Technologies,1001-5000,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),79000,147000,113000.0,Oakland,CA,1,0,0,0,0,0,0,1,0,0,0,0
+Data Scientist,3.3,Huxley,201-500,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),79000,147000,113000.0,San Francisco,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.4,FM Systems,51-200,Company - Private,Computer Hardware & Software,Information Technology,$5 to $10 million (USD),79000,147000,113000.0,Boston,MA,1,1,0,0,0,0,1,0,0,1,0,0
+Data Scientist,-1.0,B4Corp,51-200,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,79000,147000,113000.0,Reston,VA,1,1,1,0,0,0,1,0,0,0,0,0
+Machine Learning Engineer,3.7,Mteq,501-1000,Company - Public,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),79000,147000,113000.0,Fort Belvoir,VA,0,1,0,0,0,0,0,0,0,0,0,0
+Other,3.7,Blue Cross and Blue Shield of North Carolina,1001-5000,Company - Private,Insurance Carriers,Insurance,$5 to $10 billion (USD),79000,147000,113000.0,Durham,NC,1,1,0,0,0,0,1,1,0,0,0,0
+Machine Learning Engineer,4.8,Jane Street,501-1000,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,79000,147000,113000.0,New York,NY,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,5.0,SSATI,1-50,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),79000,147000,113000.0,McLean,VA,1,1,1,0,0,0,1,0,0,0,0,0
+Data Scientist,3.9,Novartis,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),79000,147000,113000.0,Cambridge,MA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.4,Solving IT International Inc,501-1000,Company - Private,Unknown,Unknown,Unknown / Non-Applicable,79000,147000,113000.0,Chicago,IL,0,0,1,0,0,0,0,0,0,0,0,0
+Data Scientist,3.3,The Davey Tree Expert Company,10000+,Self-employed,Timber Operations,Agriculture & Forestry,$1 to $2 billion (USD),79000,147000,113000.0,Kent,OH,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.6,Centauri,501-1000,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),79000,147000,113000.0,Reston,VA,1,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,-1.0,Stride Search,1-50,Company - Private,Unknown,Unknown,Less than $1 million (USD),79000,147000,113000.0,San Francisco,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,2.6,Software Engineering Institute,501-1000,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,79000,147000,113000.0,Pittsburgh,PA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,3.8,Dermalogica,201-500,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing,$100 to $500 million (USD),79000,147000,113000.0,Carson,CA,1,1,0,0,1,0,0,0,0,0,1,0
+Data Scientist,4.8,TechProjects,1-50,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,79000,147000,113000.0,New York,NY,1,1,0,0,1,0,0,0,0,0,0,0
+Other,3.9,7Park Data,51-200,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,79000,147000,113000.0,New York,NY,0,1,0,0,0,0,0,0,0,1,0,1
+Data Scientist,4.0,Netskope,501-1000,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,122000,146000,134000.0,Santa Clara,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.2,Eversight,51-200,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),122000,146000,134000.0,Palo Alto,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Other,3.7,Protolabs,1001-5000,Company - Public,Miscellaneous Manufacturing,Manufacturing,$100 to $500 million (USD),122000,146000,134000.0,Maple Plain,MN,1,0,0,1,0,0,0,0,0,0,0,0
+Data Scientist,3.0,Ameritas Life Insurance Corp,1001-5000,Company - Private,Insurance Agencies & Brokerages,Insurance,$2 to $5 billion (USD),122000,146000,134000.0,Cincinnati,OH,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,3.5,Western Digital,10000+,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),122000,146000,134000.0,San Jose,CA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,2.9,"Shimento, Inc.",1-50,Company - Private,Unknown,Unknown,$1 to $5 million (USD),122000,146000,134000.0,Santa Clara,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,5.0,Averity,1-50,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,122000,146000,134000.0,New York,NY,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.7,Praxis Engineering,201-500,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),122000,146000,134000.0,Chantilly,VA,1,0,0,0,0,0,1,0,0,0,0,0
+Data Scientist,-1.0,Point72 Ventures,Unknown,Unknown,Unknown,Unknown,-1,122000,146000,134000.0,Palo Alto,CA,0,0,0,0,0,0,0,0,0,0,0,0
+Other,4.5,Johns Hopkins University Applied Physics Laboratory,5001-10000,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),122000,146000,134000.0,Laurel,MD,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.9,Cambridge Mobile Telematics,1-50,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,122000,146000,134000.0,Cambridge,MA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Engineer,4.6,Blend360,51-200,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,122000,146000,134000.0,Columbia,MD,1,1,0,0,0,0,1,1,0,1,0,1
+Data Scientist,5.0,Phoenix Operations Group,1-50,Company - Private,IT Services,Information Technology,$1 to $5 million (USD),122000,146000,134000.0,Annapolis Junction,MD,0,1,0,0,0,0,0,0,0,1,0,0
+Data Analyst,3.9,Nolij Consulting,51-200,Company - Public,Consulting,Business Services,$1 to $5 million (USD),122000,146000,134000.0,Falls Church,VA,1,1,1,0,1,0,0,0,0,0,0,0
+Data Scientist,-1.0,Hatch Data Inc,Unknown,Unknown,Unknown,Unknown,-1,122000,146000,134000.0,San Francisco,CA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,-1.0,Hatch Data Inc,Unknown,Unknown,Unknown,Unknown,-1,122000,146000,134000.0,San Francisco,CA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,-1.0,Hatch Data Inc,Unknown,Unknown,Unknown,Unknown,-1,122000,146000,134000.0,San Francisco,CA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,-1.0,Hatch Data Inc,Unknown,Unknown,Unknown,Unknown,-1,122000,146000,134000.0,San Francisco,CA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,-1.0,Hatch Data Inc,Unknown,Unknown,Unknown,Unknown,-1,122000,146000,134000.0,San Francisco,CA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,-1.0,Hatch Data Inc,Unknown,Unknown,Unknown,Unknown,-1,122000,146000,134000.0,San Francisco,CA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,3.5,Maxar Technologies,5001-10000,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),122000,146000,134000.0,Herndon,VA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.3,Quick Base,201-500,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,112000,116000,114000.0,Cambridge,MA,1,1,1,1,1,0,0,0,0,0,0,0
+Data Scientist,3.7,Takeda,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),112000,116000,114000.0,Cambridge,MA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,Maxar Technologies,5001-10000,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),112000,116000,114000.0,Herndon,VA,1,1,0,0,1,0,0,0,0,0,0,0
+Other,3.9,Southwest Research Institute,1001-5000,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),112000,116000,114000.0,Oklahoma City,OK,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.7,Compass Consulting Group,51-200,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,112000,116000,114000.0,Thousand Oaks,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Other,4.8,Klaviyo,201-500,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,112000,116000,114000.0,Boston,MA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.0,AstraZeneca,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),112000,116000,114000.0,Gaithersburg,MD,1,1,0,0,0,0,1,1,0,0,0,1
+Data Scientist,4.4,"SolutionIT, Inc.",51-200,Company - Private,Unknown,Unknown,Unknown / Non-Applicable,112000,116000,114000.0,Edison,NJ,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.2,Perspecta,10000+,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,112000,116000,114000.0,Adelphi,MD,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.5,Smith Hanley Associates,1-50,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,112000,116000,114000.0,Washington,DC,1,1,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,3.5,Allen Institute,201-500,Nonprofit Organization,Research & Development,Business Services,$100 to $500 million (USD),112000,116000,114000.0,Seattle,WA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.4,Eliassen Group,1001-5000,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD),112000,116000,114000.0,Plano,TX,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.1,Bayside Solutions,1-50,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD),112000,116000,114000.0,Sunnyvale,CA,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.5,Evolve Vacation Rental,201-500,Company - Private,Travel Agencies,Travel & Tourism,Unknown / Non-Applicable,112000,116000,114000.0,Denver,CO,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.8,AgreeYa Solutions,1001-5000,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),112000,116000,114000.0,Thousand Oaks,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.7,Carolina Power & Light Co,5001-10000,Subsidiary or Business Segment,Energy,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable,112000,116000,114000.0,McLean,VA,1,1,0,0,0,0,0,0,0,0,0,0
+Other,3.5,Central California Alliance for Health,501-1000,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),112000,116000,114000.0,Scotts Valley,CA,1,0,0,0,1,0,0,0,0,0,0,0
+Other,3.7,MassMutual,5001-10000,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),112000,116000,114000.0,Boston,MA,1,0,0,0,0,0,0,0,0,0,0,0
+Other,5.0,"New Iron Group, Inc.",1-50,Contract,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,112000,116000,114000.0,Boston,MA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,4.0,Travelers,10000+,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),112000,116000,114000.0,Hartford,CT,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,3.6,Twitch,1001-5000,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable,112000,116000,114000.0,San Francisco,CA,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,4.8,Klaviyo,201-500,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,110000,163000,136500.0,Boston,MA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.8,GutCheck,51-200,Company - Private,Advertising & Marketing,Business Services,$10 to $25 million (USD),110000,163000,136500.0,Denver,CO,0,0,1,0,0,0,0,0,0,0,0,0
+Other,3.6,Biogen,5001-10000,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),110000,163000,136500.0,Cambridge,MA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,-1.0,HireAi,Unknown,Unknown,Unknown,Unknown,-1,110000,163000,136500.0,San Francisco,CA,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,-1.0,HireAi,Unknown,Unknown,Unknown,Unknown,-1,110000,163000,136500.0,San Francisco,CA,1,1,0,0,1,0,0,0,0,0,0,0
+Machine Learning Engineer,3.3,Tempus Labs,501-1000,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,110000,163000,136500.0,Redwood City,CA,1,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,4.1,Mentor Graphics,5001-10000,Company - Public,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),110000,163000,136500.0,Fremont,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.6,WCG (WIRB-Copernicus Group),1001-5000,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),110000,163000,136500.0,Hamilton,NJ,0,0,1,1,0,0,0,0,1,0,0,0
+Data Engineer,4.5,Kingfisher Systems,51-200,Company - Private,Federal Agencies,Government,$25 to $50 million (USD),110000,163000,136500.0,Falls Church,VA,1,1,0,0,0,0,0,0,0,0,0,0
+Other,3.3,Tempus Labs,501-1000,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,110000,163000,136500.0,Chicago,IL,0,0,0,0,0,0,1,0,0,0,0,0
+Other,3.4,Liberty Mutual Insurance,10000+,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),110000,163000,136500.0,Indianapolis,IN,1,1,0,1,0,0,0,0,0,0,1,0
+Data Scientist,4.3,Visionary Integration Professionals,501-1000,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),110000,163000,136500.0,Washington,DC,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,Maxar Technologies,5001-10000,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),110000,163000,136500.0,Herndon,VA,0,1,0,0,0,0,0,0,0,0,0,0
+Other,4.0,Dynetics,1001-5000,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),110000,163000,136500.0,Huntsville,AL,0,1,0,0,0,0,0,0,0,0,0,0
+Other,4.5,Systems & Technology Research,201-500,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),110000,163000,136500.0,Woburn,MA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,4.5,Novetta,501-1000,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),110000,163000,136500.0,Herndon,VA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,3.9,Navy Federal Credit Union,10000+,Other Organization,Banks & Credit Unions,Finance,Unknown / Non-Applicable,110000,163000,136500.0,Merrifield,VA,1,0,0,1,1,0,0,1,0,0,0,0
+Other,4.0,Exact Sciences Corporation,1001-5000,Company - Public,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),110000,163000,136500.0,Madison,WI,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,3.6,Community Behavioral Health,201-500,Company - Private,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),110000,163000,136500.0,Philadelphia,PA,1,0,1,1,1,0,0,0,0,0,0,0
+Other,3.3,Reynolds American,5001-10000,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),110000,163000,136500.0,Winston-Salem,NC,0,0,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,5.0,LifeOmic,51-200,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,110000,163000,136500.0,Raleigh,NC,0,0,0,0,0,0,1,1,1,1,0,0
+Data Scientist,4.1,Twitter,1001-5000,Company - Public,Internet,Information Technology,$2 to $5 billion (USD),124000,198000,161000.0,San Francisco,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.2,Postmates - Corporate HQ,1001-5000,Company - Private,Express Delivery Services,Transportation & Logistics,Unknown / Non-Applicable,124000,198000,161000.0,San Francisco,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.9,"Visionist, Inc.",51-200,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),124000,198000,161000.0,Columbia,MD,0,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,-1.0,Navio,Unknown,Unknown,Unknown,Unknown,Unknown / Non-Applicable,124000,198000,161000.0,San Mateo,CA,0,0,0,0,0,0,1,0,0,0,0,0
+Data Scientist,3.3,Concerto HealthAI,201-500,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,124000,198000,161000.0,Boston,MA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,-1.0,Evolvinc,1-50,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,124000,198000,161000.0,Burbank,CA,1,1,0,0,0,0,1,0,0,1,1,0
+Data Scientist,5.0,PROPRIUS,1-50,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,124000,198000,161000.0,Sunnyvale,CA,0,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.4,TECHNOCRAFT Solutions,1-50,Company - Private,Advertising & Marketing,Business Services,$1 to $5 million (USD),124000,198000,161000.0,San Ramon,CA,1,1,0,0,0,0,0,1,0,0,0,1
+Data Scientist,4.1,"Latitude, Inc.",1-50,Company - Private,Consulting,Business Services,$1 to $5 million (USD),124000,198000,161000.0,Washington,DC,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,5.0,Royce Geospatial,51-200,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million (USD),124000,198000,161000.0,Springfield,VA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.2,CyberCoders,201-500,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$100 to $500 million (USD),124000,198000,161000.0,Phoenix,AZ,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.7,Booz Allen Hamilton Inc.,10000+,Company - Public,Consulting,Business Services,$5 to $10 billion (USD),124000,198000,161000.0,Oxnard,CA,0,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.8,Burns & McDonnell,5001-10000,Company - Private,Architectural & Engineering Services,Business Services,$1 to $2 billion (USD),124000,198000,161000.0,Kansas City,MO,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.8,InvenTech Info,201-500,Company - Private,IT Services,Information Technology,$1 to $5 million (USD),124000,198000,161000.0,Jersey City,NJ,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,Robert Half,10000+,Company - Public,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD),124000,198000,161000.0,Manchester,NH,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,4.6,GreatAmerica Financial Services,501-1000,Company - Private,Lending,Finance,$100 to $500 million (USD),124000,198000,161000.0,Cedar Rapids,IA,1,0,1,0,1,0,0,0,0,0,0,0
+Data Scientist,4.5,Conflux Systems Inc.,1-50,Company - Private,Accounting,Accounting & Legal,Less than $1 million (USD),124000,198000,161000.0,Winters,TX,1,1,0,0,0,0,1,1,1,0,0,0
+Data Scientist,3.9,Criteo,1001-5000,Company - Public,Internet,Information Technology,$2 to $5 billion (USD),124000,198000,161000.0,Ann Arbor,MI,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.4,Voice,Unknown,Company - Private,Unknown,Unknown,Unknown / Non-Applicable,124000,198000,161000.0,Brooklyn,NY,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,-1.0,Microagility,1-50,Company - Private,Consulting,Business Services,$1 to $5 million (USD),124000,198000,161000.0,New York,NY,1,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.1,Coverent,51-200,Company - Private,Consulting,Business Services,$10 to $25 million (USD),124000,198000,161000.0,McLean,VA,0,1,1,0,0,0,0,0,0,0,0,0
+Data Scientist,3.7,Via Transportation,501-1000,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,79000,133000,106000.0,New York,NY,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.5,Benson Hill,201-500,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),79000,133000,106000.0,Saint Louis,MO,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.6,"Conch Technologies, Inc",51-200,Company - Private,Consulting,Business Services,$5 to $10 million (USD),79000,133000,106000.0,Concord,CA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,-1.0,Falcon IT & Staffing Solutions,Unknown,Company - Public,Unknown,Unknown,Unknown / Non-Applicable,79000,133000,106000.0,Fort Belvoir,VA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,-1.0,"Rainmaker Resources, LLC",1-50,Company - Private,Unknown,Unknown,Unknown / Non-Applicable,79000,133000,106000.0,Cincinnati,OH,0,0,1,0,0,0,0,0,0,0,0,0
+Data Engineer,4.4,Rocket Lawyer,51-200,Company - Private,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),79000,133000,106000.0,San Francisco,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.6,DataLab USA,51-200,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,79000,133000,106000.0,Germantown,MD,1,1,1,0,1,0,0,0,0,0,0,0
+Data Scientist,3.1,Werner Enterprises Inc,10000+,Company - Public,Logistics & Supply Chain,Transportation & Logistics,$2 to $5 billion (USD),79000,133000,106000.0,Omaha,NE,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,5.0,PeopleCom,1-50,Company - Private,Unknown,Unknown,$1 to $5 million (USD),79000,133000,106000.0,McLean,VA,1,1,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,5.0,VANTA Partners,1-50,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,79000,133000,106000.0,Open Fork,VA,0,1,0,0,0,0,0,0,0,0,0,1
+Data Scientist,-1.0,B4Corp,51-200,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,79000,133000,106000.0,Reston,VA,1,1,1,0,0,0,1,0,0,0,0,0
+Data Scientist,-1.0,"Blue Icy Water, LLC",1-50,Company - Private,Unknown,Unknown,Unknown / Non-Applicable,79000,133000,106000.0,Unknown,Unknown,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,"Farmer's Business Network, Inc.",201-500,Company - Private,Farm Support Services,Agriculture & Forestry,Unknown / Non-Applicable,79000,133000,106000.0,San Carlos,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,-1.0,Sonde Health,1-50,Private Practice / Firm,Health Care Services & Hospitals,Health Care,Less than $1 million (USD),79000,133000,106000.0,Boston,MA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,5.0,Maxiom,1-50,Company - Public,Unknown,Unknown,Unknown / Non-Applicable,79000,133000,106000.0,Ashburn,VA,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,2.7,Change Healthcare,10000+,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable,79000,133000,106000.0,Lombard,IL,1,0,1,0,0,0,0,0,0,0,0,0
+Data Scientist,4.1,DCS Corp,1001-5000,Company - Private,Research & Development,Business Services,$100 to $500 million (USD),79000,133000,106000.0,Hampton,VA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,2.1,Hive (CA),Unknown,Company - Private,Telecommunications Services,Telecommunications,Unknown / Non-Applicable,79000,133000,106000.0,San Francisco,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,4.8,Jane Street,501-1000,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,79000,133000,106000.0,New York,NY,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.5,Envision LLC,201-500,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million (USD),69000,116000,92500.0,Saint Louis,MO,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.0,Autodesk,5001-10000,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),69000,116000,92500.0,San Francisco,CA,0,1,0,0,0,0,1,1,1,0,0,0
+Data Scientist,3.3,Hackensack Meridian Health,10000+,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$5 to $10 billion (USD),69000,116000,92500.0,Edison,NJ,0,1,0,1,1,0,0,0,0,0,0,0
+Data Scientist,3.9,Novartis,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),69000,116000,92500.0,Cambridge,MA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.2,Net2Source Inc.,1001-5000,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million (USD),69000,116000,92500.0,Alpharetta,GA,1,1,0,0,0,0,0,0,0,1,0,0
+Data Scientist,3.2,The Trade Desk,1001-5000,Company - Public,Internet,Information Technology,Unknown / Non-Applicable,69000,116000,92500.0,Boulder,CO,1,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,3.7,IBM,10000+,Company - Public,IT Services,Information Technology,$10+ billion (USD),69000,116000,92500.0,Atlanta,GA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.4,Knowesis Inc.,51-200,Company - Private,Consulting,Business Services,$25 to $50 million (USD),69000,116000,92500.0,Falls Church,VA,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.1,MoTek Technologies,1-50,Company - Private,IT Services,Information Technology,$1 to $5 million (USD),69000,116000,92500.0,Mountain View,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.3,The Davey Tree Expert Company,10000+,Self-employed,Timber Operations,Agriculture & Forestry,$1 to $2 billion (USD),69000,116000,92500.0,Kent,OH,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,HPOne,501-1000,Company - Private,Insurance Carriers,Insurance,$50 to $100 million (USD),69000,116000,92500.0,Trumbull,CT,0,1,1,0,1,0,0,0,0,0,0,0
+Data Scientist,-1.0,Stride Search,1-50,Company - Private,Unknown,Unknown,Less than $1 million (USD),69000,116000,92500.0,San Francisco,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,2.6,Software Engineering Institute,501-1000,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,69000,116000,92500.0,Pittsburgh,PA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,-1.0,Blue Cloak LLC,Unknown,Unknown,Unknown,Unknown,-1,69000,116000,92500.0,Sterling,VA,1,1,0,0,1,0,1,0,0,1,0,0
+Data Scientist,2.7,TBWA\Chiat\Day,1001-5000,Company - Public,Advertising & Marketing,Business Services,$100 to $500 million (USD),69000,116000,92500.0,New York,NY,1,1,1,1,1,0,0,0,0,0,0,0
+Data Scientist,3.5,ThreeBridge Solutions,501-1000,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,69000,116000,92500.0,Alpharetta,GA,1,1,0,0,0,0,0,0,1,0,0,0
+Data Scientist,3.2,"Numeric, LLC",1-50,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),69000,116000,92500.0,Philadelphia,PA,1,1,0,0,0,0,1,0,0,0,0,0
+Data Analyst,3.8,Dermalogica,201-500,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing,$100 to $500 million (USD),69000,116000,92500.0,Carson,CA,1,1,0,0,1,0,0,0,0,0,1,0
+Data Scientist,4.2,Centraprise,51-200,Company - Private,IT Services,Information Technology,Less than $1 million (USD),69000,116000,92500.0,Foster City,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.8,TechProjects,1-50,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,69000,116000,92500.0,New York,NY,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,4.2,DW Simpson,51-200,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),69000,116000,92500.0,Frederick,MD,1,1,1,0,1,0,0,0,0,0,0,0
+Machine Learning Engineer,3.3,Tempus Labs,501-1000,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,31000,56000,43500.0,Chicago,IL,1,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,4.0,Grid Dynamics,1001-5000,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million (USD),31000,56000,43500.0,Santa Clara,CA,1,1,0,0,1,0,0,0,0,0,0,0
+Other,3.9,7Park Data,51-200,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,31000,56000,43500.0,New York,NY,0,1,0,0,0,0,0,0,0,1,0,1
+Other,3.7,Protolabs,1001-5000,Company - Public,Miscellaneous Manufacturing,Manufacturing,$100 to $500 million (USD),31000,56000,43500.0,Maple Plain,MN,1,0,0,1,0,0,0,0,0,0,0,0
+Data Scientist,3.9,LinQuest,501-1000,Company - Private,Aerospace & Defense,Aerospace & Defense,$50 to $100 million (USD),31000,56000,43500.0,Colorado Springs,CO,1,1,1,1,1,0,0,0,0,0,0,0
+Data Engineer,3.5,Western Digital,10000+,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),31000,56000,43500.0,San Jose,CA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,4.0,Trexquant Investment,1-50,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,31000,56000,43500.0,Unknown,Unknown,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.0,Ameritas Life Insurance Corp,1001-5000,Company - Private,Insurance Agencies & Brokerages,Insurance,$2 to $5 billion (USD),31000,56000,43500.0,Cincinnati,OH,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.7,Fleetcor,5001-10000,Company - Public,Financial Transaction Processing,Finance,$2 to $5 billion (USD),31000,56000,43500.0,Atlanta,GA,0,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,4.5,Radiant Digital,1-50,Company - Private,Unknown,Unknown,Less than $1 million (USD),31000,56000,43500.0,Washington,DC,1,1,0,0,0,0,0,0,0,1,0,0
+Data Scientist,2.8,Child Care Aware of America,51-200,Nonprofit Organization,Social Assistance,Non-Profit,$25 to $50 million (USD),31000,56000,43500.0,Arlington,VA,0,1,0,0,0,0,1,1,1,0,0,0
+Data Scientist,4.1,IntelliPro Group Inc.,201-500,Company - Private,Unknown,Unknown,$10 to $25 million (USD),31000,56000,43500.0,Santa Clara,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,2.9,Quest Integrity,201-500,Company - Public,Oil & Gas Services,"Oil, Gas, Energy & Utilities",$50 to $100 million (USD),31000,56000,43500.0,Tulsa,OK,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.7,Praxis Engineering,201-500,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),31000,56000,43500.0,Chantilly,VA,1,0,0,0,0,0,1,0,0,0,0,0
+Data Scientist,3.4,USI,1001-5000,Company - Private,Construction,"Construction, Repair & Maintenance",$100 to $500 million (USD),31000,56000,43500.0,Southfield,MI,1,1,1,1,0,0,0,1,0,0,0,0
+Data Scientist,3.9,Apex Systems,1001-5000,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$2 to $5 billion (USD),31000,56000,43500.0,San Francisco,CA,1,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,2.9,"Pragmatics, Inc.",201-500,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),31000,56000,43500.0,Unknown,Unknown,0,1,0,0,0,0,0,0,0,0,0,0
+Other,4.5,Johns Hopkins University Applied Physics Laboratory,5001-10000,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),31000,56000,43500.0,Laurel,MD,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.9,Cambridge Mobile Telematics,1-50,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,31000,56000,43500.0,Cambridge,MA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,5.0,Phoenix Operations Group,1-50,Company - Private,IT Services,Information Technology,$1 to $5 million (USD),31000,56000,43500.0,Annapolis Junction,MD,0,1,0,0,0,0,0,0,0,1,0,0
+Machine Learning Engineer,3.3,Tempus Labs,501-1000,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,95000,119000,107000.0,Redwood City,CA,1,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,3.5,The Knot Worldwide,1001-5000,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,95000,119000,107000.0,Washington,DC,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,Crossover Health,1-50,Company - Private,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD),95000,119000,107000.0,San Clemente,CA,0,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,4.0,Lorven Technologies Inc,1-50,Company - Private,Accounting,Accounting & Legal,Less than $1 million (USD),95000,119000,107000.0,New York,NY,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,3.9,Nolij Consulting,51-200,Company - Public,Consulting,Business Services,$1 to $5 million (USD),95000,119000,107000.0,Falls Church,VA,1,1,1,0,1,0,0,0,0,0,0,0
+Data Scientist,3.4,Dice.com,201-500,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$100 to $500 million (USD),95000,119000,107000.0,Newton,MA,1,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,Gap Inc.,10000+,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD),95000,119000,107000.0,San Francisco,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.7,"Tygart Technology, Inc",1-50,Company - Private,Unknown,Unknown,$1 to $5 million (USD),95000,119000,107000.0,Washington,DC,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,-1.0,Hatch Data Inc,Unknown,Unknown,Unknown,Unknown,-1,95000,119000,107000.0,San Francisco,CA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,-1.0,Hatch Data Inc,Unknown,Unknown,Unknown,Unknown,-1,95000,119000,107000.0,San Francisco,CA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,-1.0,Hatch Data Inc,Unknown,Unknown,Unknown,Unknown,-1,95000,119000,107000.0,San Francisco,CA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,-1.0,Hatch Data Inc,Unknown,Unknown,Unknown,Unknown,-1,95000,119000,107000.0,San Francisco,CA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,-1.0,Hatch Data Inc,Unknown,Unknown,Unknown,Unknown,-1,95000,119000,107000.0,San Francisco,CA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,-1.0,Hatch Data Inc,Unknown,Unknown,Unknown,Unknown,-1,95000,119000,107000.0,San Francisco,CA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,4.6,Murray Resources,1-50,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),95000,119000,107000.0,The Woodlands,TX,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,4.0,New York Technology Partners,51-200,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),95000,119000,107000.0,Seattle,WA,1,1,0,0,0,0,1,1,1,0,0,0
+Data Scientist,4.0,Two95 International Inc.,1-50,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD),95000,119000,107000.0,Chicago,IL,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,-1.0,Sophinea,1-50,Unknown,Unknown,Unknown,Unknown / Non-Applicable,95000,119000,107000.0,Chantilly,VA,1,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.7,CRS Group,51-200,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),95000,119000,107000.0,Chicago,IL,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,Blackstone Talent Group,51-200,Company - Private,Consulting,Business Services,$25 to $50 million (USD),95000,119000,107000.0,San Francisco,CA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,5.0,Phoenix Operations Group,1-50,Company - Private,IT Services,Information Technology,$1 to $5 million (USD),95000,119000,107000.0,Baltimore,MD,0,1,0,0,0,0,0,0,0,1,0,0
+Data Scientist,4.1,Roche,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),212000,331000,271500.0,Pleasanton,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.0,AstraZeneca,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),212000,331000,271500.0,Wilmington,DE,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.6,Creative Circle,201-500,Company - Public,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,212000,331000,271500.0,Unknown,Unknown,1,1,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,5.0,Blue Horizon Tek Solutions,1-50,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,212000,331000,271500.0,New York,NY,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,Maxar Technologies,5001-10000,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),212000,331000,271500.0,Herndon,VA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.7,Sharpedge Solutions Inc,Unknown,Company - Private,Publishing,Media,Less than $1 million (USD),212000,331000,271500.0,Seattle,WA,1,1,0,0,0,0,1,1,1,0,0,0
+Data Scientist,3.5,Maxar Technologies,5001-10000,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),212000,331000,271500.0,Herndon,VA,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.6,Alaka`ina Foundation Family of Companies,501-1000,Government,Unknown,Unknown,Unknown / Non-Applicable,212000,331000,271500.0,Fort Sam Houston,TX,1,1,0,0,0,0,0,0,0,0,0,0
+Other,3.9,Southwest Research Institute,1001-5000,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),212000,331000,271500.0,Oklahoma City,OK,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,2.7,Hexagon US Federal,51-200,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,212000,331000,271500.0,Lexington Park,MD,0,0,0,0,0,0,0,0,0,0,0,0
+Other,4.8,Klaviyo,201-500,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,212000,331000,271500.0,Boston,MA,0,1,0,0,0,0,0,0,0,0,0,0
+Other,-1.0,Monte Rosa Therapeutics,Unknown,Unknown,Unknown,Unknown,-1,212000,331000,271500.0,Cambridge,MA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.0,Comtech Global Inc,51-200,Company - Private,"Health, Beauty, & Fitness",Consumer Services,$5 to $10 million (USD),212000,331000,271500.0,Washington,DC,1,1,0,1,1,0,1,1,0,0,0,0
+Data Scientist,3.8,"Aveshka, Inc.",51-200,Company - Public,IT Services,Information Technology,$10 to $25 million (USD),212000,331000,271500.0,Washington,DC,1,1,1,0,0,0,0,0,0,0,0,0
+Other,4.2,10x Genomics,501-1000,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,212000,331000,271500.0,Raleigh,NC,0,0,0,0,0,0,0,0,0,0,0,0
+Other,3.9,Southwest Research Institute,1001-5000,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),212000,331000,271500.0,Dayton,OH,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,-1.0,CompuForce,Unknown,Company - Private,Unknown,Unknown,Unknown / Non-Applicable,212000,331000,271500.0,New York,NY,0,0,0,0,0,0,1,0,0,0,0,0
+Data Scientist,4.5,Smith Hanley Associates,1-50,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,212000,331000,271500.0,Washington,DC,1,1,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,3.5,Allen Institute,201-500,Nonprofit Organization,Research & Development,Business Services,$100 to $500 million (USD),212000,331000,271500.0,Seattle,WA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,2.7,1-800-Flowers,1001-5000,Company - Public,Wholesale,Business Services,$1 to $2 billion (USD),212000,331000,271500.0,New York,NY,1,1,1,0,1,0,0,0,0,0,0,0
+Data Scientist,3.5,Aptive,51-200,Company - Private,Consulting,Business Services,$25 to $50 million (USD),212000,331000,271500.0,Washington,DC,1,1,0,1,1,0,0,0,0,0,0,0
+Data Scientist,4.9,The Mom Project,1-50,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,66000,112000,89000.0,Longmont,CO,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,3.6,Powertek,51-200,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),66000,112000,89000.0,Washington,DC,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,5.0,JCD Staffing,1-50,Company - Private,Unknown,Unknown,Unknown / Non-Applicable,66000,112000,89000.0,Washington,DC,1,1,0,1,1,0,0,0,0,0,0,0
+Data Scientist,3.1,Bayside Solutions,1-50,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD),66000,112000,89000.0,Sunnyvale,CA,1,1,0,0,1,0,0,0,0,0,0,0
+Data Engineer,3.9,Thumbtack,501-1000,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,66000,112000,89000.0,San Francisco,CA,0,1,0,0,0,0,1,0,1,0,0,0
+Data Scientist,3.4,"MILVETS Systems Technology, Inc.",51-200,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),66000,112000,89000.0,Patuxent,MD,0,0,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,4.1,Apple,10000+,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),66000,112000,89000.0,Santa Clara,CA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.1,Kforce,10000+,Company - Public,Staffing & Outsourcing,Business Services,$1 to $2 billion (USD),66000,112000,89000.0,Fairfax,VA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,Evolve Vacation Rental,201-500,Company - Private,Travel Agencies,Travel & Tourism,Unknown / Non-Applicable,66000,112000,89000.0,Denver,CO,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,4.3,The Buffalo Group,501-1000,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),66000,112000,89000.0,Fort Belvoir,VA,0,1,0,0,0,0,0,0,0,0,0,0
+Other,4.4,OppLoans,201-500,Company - Private,Lending,Finance,$100 to $500 million (USD),66000,112000,89000.0,Chicago,IL,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.8,AgreeYa Solutions,1001-5000,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),66000,112000,89000.0,Thousand Oaks,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.7,Carolina Power & Light Co,5001-10000,Subsidiary or Business Segment,Energy,"Oil, Gas, Energy & Utilities",Unknown / Non-Applicable,66000,112000,89000.0,McLean,VA,1,1,0,0,0,0,0,0,0,0,0,0
+Other,3.9,Southwest Research Institute,1001-5000,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),66000,112000,89000.0,San Antonio,TX,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.9,Brillient,501-1000,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),66000,112000,89000.0,Silver Spring,MD,0,1,0,0,0,0,0,0,0,0,0,0
+Other,3.7,MassMutual,5001-10000,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),66000,112000,89000.0,Boston,MA,1,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,2.9,Xator Corporation,501-1000,Contract,IT Services,Information Technology,$25 to $50 million (USD),66000,112000,89000.0,Washington,DC,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.6,HAN IT Staffing Inc.,51-200,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,66000,112000,89000.0,New York,NY,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.4,Infinitive Inc,201-500,Company - Private,Enterprise Software & Network Solutions,Information Technology,$10 to $25 million (USD),66000,112000,89000.0,McLean,VA,1,1,0,0,0,0,1,1,0,1,0,0
+Data Engineer,4.0,Travelers,10000+,Company - Public,Insurance Carriers,Insurance,$10+ billion (USD),66000,112000,89000.0,Hartford,CT,1,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,3.3,Amyris,201-500,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),128000,201000,164500.0,Emeryville,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.3,Lightspeed Systems,51-200,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),128000,201000,164500.0,Austin,TX,1,1,0,0,0,0,1,0,0,1,0,0
+Data Scientist,3.9,Thumbtack,501-1000,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,128000,201000,164500.0,San Francisco,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,3.6,Twitch,1001-5000,Subsidiary or Business Segment,Internet,Information Technology,Unknown / Non-Applicable,128000,201000,164500.0,San Francisco,CA,1,1,0,0,1,0,0,0,0,0,0,0
+Machine Learning Engineer,4.7,New Relic,1001-5000,Company - Public,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),128000,201000,164500.0,Portland,OR,0,1,0,0,0,0,0,0,0,0,0,0
+Other,3.6,Biogen,5001-10000,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),128000,201000,164500.0,Cambridge,MA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,-1.0,HireAi,Unknown,Unknown,Unknown,Unknown,-1,128000,201000,164500.0,San Francisco,CA,1,1,0,0,1,0,0,0,0,0,0,0
+Machine Learning Engineer,3.3,Tempus Labs,501-1000,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,128000,201000,164500.0,Redwood City,CA,1,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,3.3,ICW Group,501-1000,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),128000,201000,164500.0,San Diego,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Analyst,3.8,NYSTEC,51-200,Nonprofit Organization,Consulting,Business Services,$25 to $50 million (USD),128000,201000,164500.0,New York,NY,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.5,E3 Federal Solutions,501-1000,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,128000,201000,164500.0,Chantilly,VA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,4.5,Kingfisher Systems,51-200,Company - Private,Federal Agencies,Government,$25 to $50 million (USD),128000,201000,164500.0,Falls Church,VA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.4,Peraton,1001-5000,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),128000,201000,164500.0,Chantilly,VA,1,1,0,0,0,0,0,0,0,1,0,0
+Data Scientist,3.1,Group O,1001-5000,Company - Private,Staffing & Outsourcing,Business Services,$500 million to $1 billion (USD),128000,201000,164500.0,Chicago,IL,0,1,0,0,0,0,0,0,0,0,0,0
+Other,4.0,Autodesk,5001-10000,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),128000,201000,164500.0,San Francisco,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Other,3.3,Tempus Labs,501-1000,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,128000,201000,164500.0,Chicago,IL,0,0,0,0,0,0,1,0,0,0,0,0
+Data Engineer,4.1,CaptiveAire,1001-5000,Company - Private,Industrial Manufacturing,Manufacturing,$100 to $500 million (USD),128000,201000,164500.0,Raleigh,NC,1,1,0,1,0,0,0,1,0,1,0,0
+Other,4.2,LSQ,51-200,Company - Private,Investment Banking & Asset Management,Finance,$100 to $500 million (USD),128000,201000,164500.0,Orlando,FL,1,1,0,0,0,0,1,0,0,0,0,0
+Machine Learning Engineer,3.9,Temboo,1-50,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,128000,201000,164500.0,New York,NY,1,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,-1.0,Kibo,Unknown,Company - Public,Unknown,Unknown,Unknown / Non-Applicable,128000,201000,164500.0,Philadelphia,PA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.3,MITRE,5001-10000,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),128000,201000,164500.0,McLean,VA,0,1,0,0,1,0,0,1,0,0,0,0
+Data Scientist,3.9,Mars,10000+,Company - Private,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),138000,158000,148000.0,Unknown,Unknown,0,1,0,0,0,0,1,0,0,1,0,1
+Data Scientist,4.5,"Fullpower Technologies, Inc.",51-200,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),138000,158000,148000.0,Santa Cruz,CA,1,1,0,0,0,0,1,0,1,0,0,0
+Machine Learning Engineer,4.2,AeroVironment,501-1000,Company - Public,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),138000,158000,148000.0,Simi Valley,CA,0,1,1,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,Maxar Technologies,5001-10000,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),138000,158000,148000.0,Herndon,VA,0,1,0,0,0,0,0,0,0,0,0,0
+Other,4.0,Dynetics,1001-5000,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),138000,158000,148000.0,Huntsville,AL,0,1,0,0,0,0,0,0,0,0,0,0
+Other,4.5,Systems & Technology Research,201-500,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),138000,158000,148000.0,Woburn,MA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Analyst,4.5,Novetta,501-1000,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),138000,158000,148000.0,Herndon,VA,1,1,0,0,0,0,0,0,0,0,0,0
+Other,3.8,Applied Research Laboratories,501-1000,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,138000,158000,148000.0,Austin,TX,0,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,3.9,Navy Federal Credit Union,10000+,Other Organization,Banks & Credit Unions,Finance,Unknown / Non-Applicable,138000,158000,148000.0,Merrifield,VA,1,0,0,1,1,0,0,1,0,0,0,0
+Other,2.0,Conagen,51-200,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,138000,158000,148000.0,New Bedford,MA,0,0,0,0,0,0,0,0,0,0,0,0
+Other,4.8,Alector,51-200,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,138000,158000,148000.0,South San Francisco,CA,0,0,1,0,0,0,0,0,1,0,0,0
+Data Analyst,3.9,Navy Federal Credit Union,10000+,Other Organization,Banks & Credit Unions,Finance,Unknown / Non-Applicable,138000,158000,148000.0,Merrifield,VA,1,0,0,1,1,0,0,0,0,1,0,0
+Other,3.3,Reynolds American,5001-10000,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),138000,158000,148000.0,Winston-Salem,NC,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.3,MITRE,5001-10000,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),138000,158000,148000.0,Bedford,MA,1,1,0,0,0,0,1,0,0,0,0,0
+Machine Learning Engineer,5.0,LifeOmic,51-200,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,138000,158000,148000.0,Raleigh,NC,0,0,0,0,0,0,1,1,1,1,0,0
+Other,4.4,"Homology Medicines, Inc.",51-200,Company - Public,Unknown,Unknown,Unknown / Non-Applicable,138000,158000,148000.0,New Bedford,MA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,3.4,Spectrum Communications and Consulting,51-200,Company - Private,Advertising & Marketing,Business Services,$10 to $25 million (USD),138000,158000,148000.0,Chicago,IL,1,1,0,0,0,0,0,1,0,0,0,0
+Other,3.3,Inland Empire Health Plan,1001-5000,Company - Public,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),138000,158000,148000.0,Rancho Cucamonga,CA,1,0,1,1,1,0,0,0,0,0,0,0
+Data Engineer,2.9,Affinity Solutions,51-200,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,138000,158000,148000.0,New York,NY,1,1,0,0,1,0,0,0,0,0,0,0
+Other,3.8,Sandia National Laboratories,10000+,Government,Federal Agencies,Government,$2 to $5 billion (USD),138000,158000,148000.0,Livermore,CA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Engineer,3.5,Maxar Technologies,5001-10000,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),138000,158000,148000.0,McLean,VA,1,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,4.0,AstraZeneca,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),80000,132000,106000.0,Gaithersburg,MD,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.0,Autodesk,5001-10000,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),80000,132000,106000.0,San Francisco,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.4,USI,1001-5000,Company - Private,Construction,"Construction, Repair & Maintenance",$100 to $500 million (USD),80000,132000,106000.0,Southfield,MI,1,1,1,1,0,0,0,1,0,0,0,0
+Data Scientist,3.9,GSK,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),80000,132000,106000.0,Collegeville,PA,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.8,CIA,Unknown,Government,Federal Agencies,Government,Unknown / Non-Applicable,80000,132000,106000.0,Washington,DC,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.5,Maven Wave Partners,201-500,Company - Private,Consulting,Business Services,$50 to $100 million (USD),80000,132000,106000.0,Chicago,IL,1,1,0,0,1,0,1,1,1,0,0,0
+Data Scientist,4.3,Ovative Group,51-200,Company - Private,Advertising & Marketing,Business Services,$10 to $25 million (USD),80000,132000,106000.0,Minneapolis,MN,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.6,Kognetics,1-50,Company - Private,Unknown,Unknown,Unknown / Non-Applicable,80000,132000,106000.0,Gahanna,OH,1,1,0,0,0,1,0,0,0,0,0,0
+Data Scientist,2.9,Envision Healthcare,10000+,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,80000,132000,106000.0,Nashville,TN,1,1,0,1,1,0,1,1,1,0,0,0
+Data Scientist,2.9,"Pragmatics, Inc.",201-500,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),80000,132000,106000.0,Unknown,Unknown,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.2,ConsumerTrack,51-200,Company - Private,Internet,Information Technology,$25 to $50 million (USD),80000,132000,106000.0,Unknown,CA,0,1,0,0,1,0,0,0,0,0,0,0
+Other,4.5,Johns Hopkins University Applied Physics Laboratory,5001-10000,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),80000,132000,106000.0,Laurel,MD,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,5.0,Phoenix Operations Group,1-50,Company - Private,IT Services,Information Technology,$1 to $5 million (USD),80000,132000,106000.0,Annapolis Junction,MD,0,1,0,0,0,0,0,0,0,1,0,0
+Data Scientist,3.5,Crossover Health,1-50,Company - Private,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD),80000,132000,106000.0,San Clemente,CA,0,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,4.0,Lorven Technologies Inc,1-50,Company - Private,Accounting,Accounting & Legal,Less than $1 million (USD),80000,132000,106000.0,New York,NY,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.4,Meridian Knowledge Solutions,51-200,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),80000,132000,106000.0,Washington,DC,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.2,UST Global,10000+,Company - Private,IT Services,Information Technology,$1 to $2 billion (USD),80000,132000,106000.0,Atlanta,GA,1,1,0,0,0,0,1,1,1,0,0,0
+Data Scientist,3.2,IMG Systems,1-50,Company - Private,Consulting,Business Services,$1 to $5 million (USD),80000,132000,106000.0,Plano,TX,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.4,Trident Systems Inc,51-200,Company - Private,Aerospace & Defense,Aerospace & Defense,$25 to $50 million (USD),80000,132000,106000.0,Fairfax,VA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.7,"Tygart Technology, Inc",1-50,Company - Private,Unknown,Unknown,$1 to $5 million (USD),80000,132000,106000.0,Washington,DC,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.6,Merrick Bank,201-500,Company - Private,Banks & Credit Unions,Finance,Unknown / Non-Applicable,87000,141000,114000.0,Unknown,UT,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.2,ManTech,5001-10000,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),87000,141000,114000.0,Alexandria,VA,1,1,0,1,1,0,0,0,0,0,0,0
+Data Scientist,-1.0,"GrainBridge, LLC",Unknown,Unknown,Unknown,Unknown,-1,87000,141000,114000.0,Omaha,NE,1,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,3.2,First Health Group,10000+,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),87000,141000,114000.0,Wellesley,MA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,-1.0,Sprezzatura Management Consulting,Unknown,Company - Private,Unknown,Unknown,Unknown / Non-Applicable,87000,141000,114000.0,Washington,VA,0,0,1,0,0,0,0,0,0,0,0,0
+Data Scientist,2.8,"Progress Rail, A Caterpillar Company",1001-5000,Subsidiary or Business Segment,Rail,Transportation & Logistics,$2 to $5 billion (USD),87000,141000,114000.0,Fort Worth,TX,1,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,4.2,UST Global,10000+,Company - Private,IT Services,Information Technology,$1 to $2 billion (USD),87000,141000,114000.0,Atlanta,GA,1,1,0,0,0,0,1,1,1,0,0,0
+Data Scientist,4.5,Axiologic Solutions,51-200,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,87000,141000,114000.0,Alexandria,VA,0,0,0,0,0,0,1,0,0,0,0,0
+Data Scientist,3.0,Indigo Slate,51-200,Company - Private,Consulting,Business Services,$10 to $25 million (USD),87000,141000,114000.0,Bellevue,WA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.3,Cubic,5001-10000,Company - Public,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),87000,141000,114000.0,Unknown,Unknown,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.0,Advanced Bio-Logic Solutions Corp,1-50,Company - Private,Unknown,Unknown,Less than $1 million (USD),87000,141000,114000.0,Thousand Oaks,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Engineer,3.5,Alignment Healthcare,501-1000,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,87000,141000,114000.0,Orange,CA,1,0,0,1,1,0,1,1,1,0,0,0
+Data Scientist,3.5,WGSN,1-50,Company - Private,Consulting,Business Services,$50 to $100 million (USD),87000,141000,114000.0,Baltimore,MD,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.6,"ISYS Technologies, Inc.",51-200,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),87000,141000,114000.0,Herndon,VA,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,3.0,TransVoyant,51-200,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,87000,141000,114000.0,Alexandria,VA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.0,Noblis,1001-5000,Nonprofit Organization,Consulting,Business Services,$100 to $500 million (USD),87000,141000,114000.0,Bridgeport,WV,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.6,Murray Resources,1-50,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),87000,141000,114000.0,The Woodlands,TX,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,4.3,Geotab,1001-5000,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),87000,141000,114000.0,Oakville,CA,1,1,0,0,0,0,0,0,1,1,0,0
+Data Scientist,4.7,CRS Group,51-200,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million (USD),87000,141000,114000.0,Chicago,IL,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.7,EGlobalTech,201-500,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,87000,141000,114000.0,Arlington,VA,0,1,1,0,0,0,1,0,0,0,0,0
+Data Scientist,3.9,Mars,10000+,Company - Private,Food & Beverage Manufacturing,Manufacturing,$10+ billion (USD),92000,155000,123500.0,New York,NY,0,1,0,0,0,0,0,1,0,1,0,1
+Data Scientist,4.9,Avlino,1-50,Company - Private,Enterprise Software & Network Solutions,Information Technology,Less than $1 million (USD),92000,155000,123500.0,Unknown,NJ,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.0,"Central Business Solutions, Inc",51-200,Company - Private,Consulting,Business Services,$5 to $10 million (USD),92000,155000,123500.0,Seattle,WA,1,1,0,0,0,0,1,1,1,0,0,0
+Data Scientist,2.5,KeHE Distributors,5001-10000,Company - Private,Wholesale,Business Services,Unknown / Non-Applicable,92000,155000,123500.0,Naperville,IL,1,1,0,1,1,0,1,1,0,0,0,0
+Data Scientist,3.5,Blackstone Talent Group,51-200,Company - Private,Consulting,Business Services,$25 to $50 million (USD),92000,155000,123500.0,San Francisco,CA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,5.0,Phoenix Operations Group,1-50,Company - Private,IT Services,Information Technology,$1 to $5 million (USD),92000,155000,123500.0,Baltimore,MD,0,1,0,0,0,0,0,0,0,1,0,0
+Data Scientist,-1.0,Sophinea,1-50,Unknown,Unknown,Unknown,Unknown / Non-Applicable,92000,155000,123500.0,Chantilly,VA,1,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,Maxar Technologies,5001-10000,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),92000,155000,123500.0,Herndon,VA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.0,Moxie Software,51-200,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,92000,155000,123500.0,Bellevue,WA,0,1,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,5.0,Blue Horizon Tek Solutions,1-50,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,92000,155000,123500.0,New York,NY,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.7,Unicom Technologies INC,51-200,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,92000,155000,123500.0,Chicago,IL,1,1,0,0,0,0,1,0,0,0,0,0
+Data Engineer,3.3,Americo Life,201-500,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),92000,155000,123500.0,Kansas City,MO,1,1,0,0,0,0,1,0,0,0,1,0
+Data Scientist,3.3,Tokio Marine HCC,1001-5000,Company - Private,Insurance Carriers,Insurance,Unknown / Non-Applicable,92000,155000,123500.0,Houston,TX,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,CACI International,10000+,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),92000,155000,123500.0,Chantilly,VA,1,0,0,0,0,0,0,0,0,0,0,0
+Machine Learning Engineer,4.1,Apple,10000+,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),92000,155000,123500.0,Santa Clara,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.5,Maxar Technologies,5001-10000,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),92000,155000,123500.0,Herndon,VA,1,1,0,0,1,0,0,0,0,0,0,0
+Other,3.9,Southwest Research Institute,1001-5000,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),92000,155000,123500.0,Oklahoma City,OK,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.7,Compass Consulting Group,51-200,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,92000,155000,123500.0,Thousand Oaks,CA,1,1,0,0,0,0,0,0,0,0,0,0
+Other,4.8,Klaviyo,201-500,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,92000,155000,123500.0,Boston,MA,0,1,0,0,0,0,0,0,0,0,0,0
+Other,-1.0,Monte Rosa Therapeutics,Unknown,Unknown,Unknown,Unknown,-1,92000,155000,123500.0,Cambridge,MA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.0,AstraZeneca,10000+,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),92000,155000,123500.0,Gaithersburg,MD,1,1,0,0,0,0,1,1,0,0,0,1
+Data Scientist,3.8,GutCheck,51-200,Company - Private,Advertising & Marketing,Business Services,$10 to $25 million (USD),105000,167000,136000.0,Denver,CO,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.8,Juniper Networks,5001-10000,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),105000,167000,136000.0,Cupertino,CA,0,1,0,0,0,0,1,0,0,0,0,0
+Data Scientist,2.7,Hexagon US Federal,51-200,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,105000,167000,136000.0,Lexington Park,MD,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.0,Comtech Global Inc,51-200,Company - Private,"Health, Beauty, & Fitness",Consumer Services,$5 to $10 million (USD),105000,167000,136000.0,Washington,DC,1,1,0,1,1,0,1,1,0,0,0,0
+Data Scientist,-1.0,Berico Technologies,Unknown,Unknown,Unknown,Unknown,-1,105000,167000,136000.0,Fort Belvoir,VA,0,0,0,0,0,0,1,0,0,0,0,0
+Data Scientist,-1.0,Kehe Food Distributors,Unknown,Unknown,Unknown,Unknown,-1,105000,167000,136000.0,Naperville,IL,1,1,0,1,1,0,1,1,0,0,0,0
+Data Scientist,3.8,"Aveshka, Inc.",51-200,Company - Public,IT Services,Information Technology,$10 to $25 million (USD),105000,167000,136000.0,Washington,DC,1,1,1,0,0,0,0,0,0,0,0,0
+Data Scientist,3.2,Perspecta,10000+,Company - Public,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,105000,167000,136000.0,Adelphi,MD,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,-1.0,Pactera Edge,Unknown,Unknown,Unknown,Unknown,-1,105000,167000,136000.0,Redmond,WA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.6,Qurate Retail Group,10000+,Company - Public,Other Retail Stores,Retail,Unknown / Non-Applicable,105000,167000,136000.0,West Chester,PA,1,1,0,0,1,0,0,0,0,0,0,0
+Data Scientist,4.4,"SolutionIT, Inc.",51-200,Company - Private,Unknown,Unknown,Unknown / Non-Applicable,105000,167000,136000.0,Edison,NJ,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,4.1,A-Line Staffing Solutions,501-1000,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,105000,167000,136000.0,Durham,NC,1,1,0,0,0,0,0,0,0,1,0,0
+Data Scientist,-1.0,Clear Ridge Defense,1-50,Company - Private,Unknown,Unknown,Unknown / Non-Applicable,105000,167000,136000.0,Quantico,VA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.8,"Criterion Systems, Inc.",201-500,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),105000,167000,136000.0,Vienna,VA,1,1,1,0,0,0,1,0,0,0,0,0
+Data Scientist,4.0,Foundation Medicine,1001-5000,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),105000,167000,136000.0,Boston,MA,1,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,3.6,TRANZACT,1001-5000,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,105000,167000,136000.0,Fort Lee,NJ,1,1,1,1,1,0,0,0,0,0,0,0
+Data Scientist,-1.0,JKGT,Unknown,Unknown,Unknown,Unknown,-1,105000,167000,136000.0,San Francisco,CA,0,0,0,0,0,0,0,0,0,0,0,0
+Data Scientist,-1.0,AccessHope,Unknown,Unknown,Unknown,Unknown,-1,105000,167000,136000.0,Irwindale,CA,1,1,0,1,1,0,0,0,0,0,0,0
+Data Scientist,5.0,ChaTeck Incorporated,1-50,Company - Private,Advertising & Marketing,Business Services,$1 to $5 million (USD),105000,167000,136000.0,San Francisco,CA,0,1,0,0,0,0,0,0,0,0,0,0
+Data Scientist,2.7,1-800-Flowers,1001-5000,Company - Public,Wholesale,Business Services,$1 to $2 billion (USD),105000,167000,136000.0,New York,NY,1,1,1,0,1,0,0,0,0,0,0,0
